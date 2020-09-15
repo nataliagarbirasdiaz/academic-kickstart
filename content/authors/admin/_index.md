@@ -74,9 +74,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
 I am a Ph.D. candidate in the Department of Political Science at the University of California, Berkeley, and a Research Associate at the Center on the Politics of Development.
