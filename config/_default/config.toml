@@ -20,6 +20,8 @@ copyright = ""
 ## Advanced options below ##
 ############################
 
+theme = "academic"
+
 # Get last modified date for content from Git?
 enableGitInfo = false
 
