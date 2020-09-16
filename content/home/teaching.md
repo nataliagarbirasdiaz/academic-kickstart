@@ -74,9 +74,7 @@ subtitle = ""
 
 **PS 3: Introduction to Empirical Analysis and Quantitative Methods** <br/>
 &nbsp; &nbsp; Undergraduate-level course, UC Berkeley, Fall 2016 <br/>
-&nbsp; &nbsp; Graduate Student Instructor (GSI) and head GSI for Professor Laura Stoker <br/>
-&nbsp; &nbsp; [Lecture Syllabus](https://www.dropbox.com/s/k7pqq97gewafui6/Wittenberg_3Fall2017.pdf?dl=0), [Section Syllabus](https://www.dropbox.com/s/afryg9v3z7tmgc0/PS3_Kim_SectionSyllabus.docx?dl=0)<br/> 
-&nbsp; &nbsp; [Teaching materials](https://www.dropbox.com/sh/i7x71guyvi9p2l2/AADjDEdw33vhow8ezTS-MD4qa?dl=0)
+&nbsp; &nbsp; Graduate Student Instructor (GSI) and head GSI for Professor Laura Stoker
 <br/>
 **PS 2: Introduction to Comparative Politics** <br/>
 &nbsp; &nbsp; Undergraduate-level course, UC Berkeley, Spring 2016 <br/>
