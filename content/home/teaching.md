@@ -100,6 +100,6 @@ subtitle = ""
 &nbsp; &nbsp; [Workshop 8](https://egap.org/project/learning-days-8-bogota/) in Bogotá, Colombia April 2019 <br/>
 <br/>
 **Universidad de Los Andes** <br/>
-&nbsp; &nbsp; Methodology Workshop (undergraduate) with Juan Carlos Rodríguez-Raga (Fall 2012)
-&nbsp; &nbsp; Game Theory (undergraduate) with Oskar Nupia (Spring 2011)
+&nbsp; &nbsp; Methodology Workshop (undergraduate) with Juan Carlos Rodríguez-Raga (Fall 2012) <br/>
+&nbsp; &nbsp; Game Theory (undergraduate) with Oskar Nupia (Spring 2011) <br/>
 &nbsp; &nbsp; Fundamentals of Methodology (undergraduate) with Miguel García-Sánchez (Spring 2011)
