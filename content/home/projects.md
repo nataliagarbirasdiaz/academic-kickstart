@@ -97,6 +97,6 @@ Can crowdsourcing technologies aimed at augmenting civil oversight of elections 
 </details>
 <br/>
 <details>
-  <summary>**Outsiders' valence strategies: the role of anti-corruption and anti-esablishment appeals?*</summary>
+  <summary>**Outsiders' valence strategies: the role of anti-corruption and anti-esablishment appeals?** </summary>
 In progress.
 </details>
