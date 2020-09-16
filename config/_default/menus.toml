@@ -6,22 +6,22 @@
 [[main]]
   name = "Home"
   url = "#about"
-  weight = 10
+  weight = 1
 
 [[main]]
   name = "Research"
   url = "#publications"
-  weight = 20
+  weight = 2
 
 [[main]]
   name = "Teaching"
   url = "#projects"
-  weight = 30
+  weight = 3
 
 [[main]]
   name = "Dissertation"
   url = "#featured"
-  weight = 40
+  weight = 4
 
 # [[main]]
 #  name = "Contact"
@@ -33,4 +33,4 @@
  [[main]]
     name = "CV"
     url = "files/CV_NataliaGarbirasDiaz.pdf"
-    weight = 60
+    weight = 5
