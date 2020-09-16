@@ -68,18 +68,19 @@ subtitle = ""
 
 
 <details>
-<summary> <strong strong style="color:indigo"> Using Political Cues for Attitude Formation in Post-Conflict Contexts ([ESOC Working paper 19](https://esoc.princeton.edu/WP19), under review) </strong> <br/>
+<summary> <strong strong style="color:indigo"> Using Political Cues for Attitude Formation in Post-Conflict Contexts </strong> (Under review) <br/>
 Natalia Garbiras-Díaz, Miguel García-Sánchez and Aila M. Matanock <br/>
 </summary>
 <br/>
 Citizens are often asked to evaluate peace agreements seeking to end civil conflicts, by voting on referendums or the negotiating leaders or, even when not voting, deciding whether to cooperate with the implementation of policies like combatant reintegration. In this paper, we assess how citizens form attitudes towards the provisions in peace agreements. These contexts tend to have high polarization, and citizens are asked to weigh in on complex policies, so we theorize that citizens will use cues from political elites with whom they have affinity, and, without these cues, information will have less effect. We assess our theory using survey experiments in Colombia. We find citizens rely on political elites' cues to form their opinion on a peace agreement's provisions, with the direction depending on the citizen's affinity with the political elites. Additional information about these policies has little effect. The paper suggests that even these high stakes decisions can be seen as politics as usual.
-
+* [ESOC Working paper 19](https://esoc.princeton.edu/WP19)
+  
 </details>
 
 <br/>
 
 <details>
-<summary> <span style="color:indigo"> **Do citizens' preferences matter? Shaping elite attitudes towards peace agreements** (Under review) </span> <br/>
+<summary> <strong style="color:indigo"> Do citizens' preferences matter? Shaping elite attitudes towards peace agreements </strong> (Under review) <br/>
 Natalia Garbiras-Díaz, Miguel García-Sánchez and Aila M. Matanock <br/>
 </summary>
 <br/>
@@ -88,7 +89,7 @@ Citizens are increasingly seen as having a central role in peace processes, enga
 <br/>
 
 <details>
-<summary> <span style="color:indigo"> **Untouchable Forces: Restoring Trust in Security in Weak States?** </span> <br/>
+<summary> <strong style="color:indigo"> Untouchable Forces: Restoring Trust in Security in Weak States? </strong> <br/>
 Aila M. Matanock and Natalia Garbiras-Díaz <br/>
 </summary>
 <br/>
@@ -99,7 +100,7 @@ How can weak states improve security? We build on existing work theorizing that 
 <br/>
 
 <details>
-<summary> <span style="color:indigo"> **The pacifying role of education: The case of Radio Sutatenza** </span> <br/>
+<summary> <strong style="color:indigo"> The pacifying role of education: The case of Radio Sutatenza </strong> <br/>
 Natalia Garbiras-Díaz and Laura García-Montoya <br/>
 </summary>
 <br/>
@@ -111,7 +112,7 @@ Between 1947 and 1994, Radio Sutatenza influenced the lives of millions of Colom
 <br/>
 
 <details>
-<summary> <span style="color:indigo"> **Can the Size of the Legislature Decrease Government Efficiency? Evidence from Colombia's Councils** </span> <br/>
+<summary> <strong style="color:indigo"> Can the Size of the Legislature Decrease Government Efficiency? Evidence from Colombia's Councils </strong> <br/>
 Mario Chacón and Natalia Garbiras-Díaz <br/>
 </summary>
 <br/>
@@ -123,7 +124,7 @@ Can the size of the legislature affect the efficiency and quality of public admi
 <br/>
 
 <details>
-<summary> <span style="color:indigo"> **Social Norms and the Persistence of Corruption: Experimental evidence of individuals' attitudes and behavior related to corruption in Latin America** </span> <br/>
+<summary> <strong style="color:indigo"> Social Norms and the Persistence of Corruption: Experimental evidence of individuals' attitudes and behavior related to corruption in Latin America </strong> <br/>
 Natalia Garbiras-Díaz <br/>
 </summary>
 <br/>
