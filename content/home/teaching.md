@@ -66,15 +66,40 @@ subtitle = ""
  css_class = ""
 +++
 
+**University of California, Berkeley** <br/>
+<br/>
+**PS 231B: Quantitative Analysis in Political Research** <br/>
+&nbsp; &nbsp; Graduate-level course, UC Berkeley, Spring 2017 <br/>
+&nbsp; &nbsp; Graduate Student Instructor for Professor Thad Dunning <br/>
+
 **PS 3: Introduction to Empirical Analysis and Quantitative Methods** <br/>
-&nbsp; &nbsp; Undergraduate-level course, UC Berkeley, Fall 2017 <br/>
-&nbsp; &nbsp; Graduate Student Instructor for Professor Jason Wittenberg <br/>
-&nbsp; &nbsp; [Lecture Syllabus](https://www.dropbox.com/s/k7pqq97gewafui6/Wittenberg_3Fall2017.pdf?dl=0), [Section Syllabus](https://www.dropbox.com/s/afryg9v3z7tmgc0/PS3_Kim_SectionSyllabus.docx?dl=0)<br/> 
+&nbsp; &nbsp; Undergraduate-level course, UC Berkeley, Fall 2016 <br/>
+&nbsp; &nbsp; Graduate Student Instructor (GSI) and head GSI for Professor Laura Stoker <br/>
+&nbsp; &nbsp; [Lecture Syllabus](https://www.dropbox.com/s/k7pqq97gewafui6/Wittenberg_3Fall2017.pdf?dl=0), [Section Syllabus] (https://www.dropbox.com/s/afryg9v3z7tmgc0/PS3_Kim_SectionSyllabus.docx?dl=0)<br/> 
 &nbsp; &nbsp; [Teaching materials](https://www.dropbox.com/sh/i7x71guyvi9p2l2/AADjDEdw33vhow8ezTS-MD4qa?dl=0)
+<br/>
+**PS 2: Introduction to Comparative Politics** <br/>
+&nbsp; &nbsp; Undergraduate-level course, UC Berkeley, Spring 2016 <br/>
+&nbsp; &nbsp; Graduate Student Instructor for Professor Steve M. Fish
+<br/>
+**ECON 110: Game Theory in the Social Sciences** <br/>
+&nbsp; &nbsp; Undergraduate-level course, UC Berkeley, Fall 2015 <br/>
+&nbsp; &nbsp; Graduate Student Instructor for Professor Robert Powell 
 
 <br/>
 
-**PS 232A: Formal Models of Political Science** <br/>
-&nbsp; &nbsp; Graduate-level course, UC Berkeley, Spring 2020 <br/>
-&nbsp; &nbsp; Graduate Student Instructor for Professor Andrew Little 
+**Other**
+<br/>
 
+**Teaching Assistant for the EGAP Learning Days** <br/>
+&nbsp; &nbsp; [Workshop 2](https://egap.org/project/learning-days-2-santiago/) in Santiago, Chile May 2016 <br/>
+<br/>
+**Instructor for the EGAP Learning Days** <br/>
+&nbsp; &nbsp; [Workshop 5](https://egap.org/project/learning-days-5-guatemala-city/) in Guatemala City, Guatemala August 2017 <br/>
+&nbsp; &nbsp; [Workshop 7](https://egap.org/project/learning-days-7-montevideo/) in Montevideo, Uruguay February 2018 <br/>
+&nbsp; &nbsp; [Workshop 8](https://egap.org/project/learning-days-8-bogota/) in Bogotá, Colombia April 2019 <br/>
+<br/>
+**Universidad de Los Andes** <br/>
+&nbsp; &nbsp; Methodology Workshop (undergraduate) with Juan Carlos Rodríguez-Raga (Fall 2012)
+&nbsp; &nbsp; Game Theory (undergraduate) with Oskar Nupia (Spring 2011)
+&nbsp; &nbsp; Fundamentals of Methodology (undergraduate) with Miguel García-Sánchez (Spring 2011)
