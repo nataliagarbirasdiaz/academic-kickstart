@@ -25,7 +25,7 @@ interests:
 - Latin American politics
 - Political economy
 - Peace building and post-conflict settings
-- Research mehtods
+- Research methods
 
 education:
   courses:
