@@ -78,9 +78,8 @@ email: ""
 # - Researchers
 # - Visitors
 ---
-
 I am a Ph.D. candidate in the Department of Political Science at the University of California, Berkeley, and a Research Associate at the [Center on the Politics of Development](https://cpd.berkeley.edu/people/research-associates/).
 
-My main research interests are in comparative politics and the political economy of development, with a particular focus on corruption, public goods provision and accountability  in Latin America. I also study the formation of citizen and excombatant attitudes, and their role in stabilizing peace in post-conflict settings. In my dissertation, I explore the information and institutional environments that pave the way for the for rise and success of outsider candidates. 
+My main research interests are in comparative politics and the political economy of development, focusing on corruption, public goods provision, and accountability in Latin America. I also study the formation of citizen and ex-combatant attitudes and their role in stabilizing peace in post-conflict settings. In my dissertation, I explore the information and institutional environments that pave the way for outsider candidates' rise and success.
 
-I hold an M.A. in Economics from the University of Los Andes (Colombia). Prior to coming to Berkeley, I worked at the World Bank, the Observatory of Democracy and at Colombia’s National Planning Department.
+I hold an M.A. in Economics from the University of Los Andes (Colombia). Before coming to Berkeley, I worked at the World Bank, the Observatory of Democracy, and Colombia's National Planning Department.
