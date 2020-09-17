@@ -68,7 +68,7 @@ subtitle = ""
 
 
 <details>
-<summary> <strong strong style="color:DeepSkyBlue"> Using Political Cues for Attitude Formation in Post-Conflict Contexts </strong> (Under review) <br/>
+<summary> <strong strong style="color:royalblue"> Using Political Cues for Attitude Formation in Post-Conflict Contexts </strong> (Under review) <br/>
 Natalia Garbiras-Díaz, Miguel García-Sánchez and Aila M. Matanock <br/>
 </summary>
 <br/>
@@ -81,7 +81,7 @@ Citizens are often asked to evaluate peace agreements seeking to end civil confl
 <br/>
 
 <details>
-<summary> <strong style="color:DeepSkyBlue"> Do citizens' preferences matter? Shaping elite attitudes towards peace agreements </strong> (Under review) <br/>
+<summary> <strong style="color:royalblue"> Do citizens' preferences matter? Shaping elite attitudes towards peace agreements </strong> (Under review) <br/>
 Natalia Garbiras-Díaz, Miguel García-Sánchez and Aila M. Matanock <br/>
 </summary>
 <br/>
@@ -92,7 +92,7 @@ Citizens are increasingly seen as having a central role in peace processes, enga
 <br/>
 
 <details>
-<summary> <strong style="color:DeepSkyBlue"> Untouchable Forces: Restoring Trust in Security in Weak States? </strong> <br/>
+<summary> <strong style="color:royalblue"> Untouchable Forces: Restoring Trust in Security in Weak States? </strong> <br/>
 Aila M. Matanock and Natalia Garbiras-Díaz <br/>
 </summary>
 <br/>
@@ -103,7 +103,7 @@ How can weak states improve security? We build on existing work theorizing that 
 <br/>
 
 <details>
-<summary> <strong style="color:DeepSkyBlue"> The pacifying role of education: The case of Radio Sutatenza </strong> <br/>
+<summary> <strong style="color:royalblue"> The pacifying role of education: The case of Radio Sutatenza </strong> <br/>
 Natalia Garbiras-Díaz and Laura García-Montoya <br/>
 </summary>
 <br/>
@@ -115,7 +115,7 @@ Between 1947 and 1994, Radio Sutatenza influenced the lives of millions of Colom
 <br/>
 
 <details>
-<summary> <strong style="color:DeepSkyBlue"> Can the Size of the Legislature Decrease Government Efficiency? Evidence from Colombia's Councils </strong> <br/>
+<summary> <strong style="color:royalblue"> Can the Size of the Legislature Decrease Government Efficiency? Evidence from Colombia's Councils </strong> <br/>
 Mario Chacón and Natalia Garbiras-Díaz <br/>
 </summary>
 <br/>
@@ -127,7 +127,7 @@ Can the size of the legislature affect the efficiency and quality of public admi
 <br/>
 
 <details>
-<summary> <strong style="color:DeepSkyBlue"> Social Norms and the Persistence of Corruption: Experimental evidence of individuals' attitudes and behavior related to corruption in Latin America </strong> <br/>
+<summary> <strong style="color:royalblue"> Social Norms and the Persistence of Corruption: Experimental evidence of individuals' attitudes and behavior related to corruption in Latin America </strong> <br/>
 Natalia Garbiras-Díaz <br/>
 </summary>
 <br/>
