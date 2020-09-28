@@ -78,7 +78,7 @@ subtitle = ""
 **Title:** *Paving the way for the rise of outsiders: candidate and voter behavior in the era of political disillusionment* <br/>
 **Committee:** Thad Dunning (Chair), Aila Matanock, Ruth Collier & Ernesto Dal Bó <br/>
 
-TBD
+My dissertation studies the causes and consequences of anti-establishment political candidates. Across many young and advanced democracies alike, citizens are disillusioned with political and party systems. In this context, I argue that anti-establishment and anti-corruption appeals provide promising campaign devices for political challengers seeking to mobilize those disenchanted voters. Yet, the effectiveness of these appeals varies across informational and institutional environments, as I explore in different parts of my dissertation. 
 
 <details>
 <summary> <strong style="color:royalblue"> Does compulsory voting breed anti-establishment voting? Evidence from Brazilian presidential elections </strong> </summary>
