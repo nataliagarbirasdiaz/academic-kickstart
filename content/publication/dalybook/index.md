@@ -1,5 +1,5 @@
 +++
-title = "Organized Violence after Civil War: The Geography of Recruitment in Latin America"
+title = "(Book review) Organized Violence after Civil War: The Geography of Recruitment in Latin America"
 date = 2018-12-23T22:33:07-05:00
 draft = false
 
