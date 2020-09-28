@@ -1,6 +1,6 @@
 +++
 title = "Considering concessions: A survey experiment on the Colombian peace process"
-date = 2018-12-23T22:33:07-05:00
+date = 2018-11-23T22:33:07-05:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
