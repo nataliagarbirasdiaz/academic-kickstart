@@ -135,3 +135,15 @@ Despite systematic efforts by both countries and the international community to 
 
 </details>
 
+<br/>
+
+<details>
+<summary> <strong style="color:royalblue"> Actitudes de exintegrantes de las Farc–EP frente a la reincorporación </strong> <br/>
+Ana Arjona, Leopoldo Fergusson, Natalia Garbiras-Díaz, Juana García-Duque, Tatiana Hiller, Lewis Polo and Michael Weintraub <br/>
+</summary>
+<br/>
+En agosto del 2019 se cumplieron dos años de la reincorporación de las Farc-EP. Este proceso es uno de los principales desafíos de la implementación del Acuerdo Final firmado entre el Estado colombiano y la organización guerrillera en noviembre de 2016. Los avances en materia de reincorporación garantizarán su sostenibilidad. En este documento analizamos las actitudes de los exintegrantes frente al proceso en esta primera etapa, tomando los resultados del Registro Nacional de Reincorporación (RNR), realizado entre la Agencia Nacional de Reincorporación (ARN) y el componente Farc del Consejo Nacional de Reincorporación (CNR). Tras mostrar que hay aspectos positivos en las actitudes de las personas en proceso de reincorporación, y algunos que deben mirarse con preocupación, estudiamos qué características de los exintegrantes y su entorno se asocian con mejores actitudes y condiciones para la implementación del proceso de reincorporación. Complementamos este análisis contrastando las actitudes de la población en proceso de reincorporación con las de la población civil, haciendo paralelos, en términos de los retos de política pública, para ambos grupos. La evidencia presentada sirve para canalizar esfuerzos en donde más parecen necesitarse.    
+
+* [CEDE Working Paper 2020-24](https://ideas.repec.org/p/col/000089/018247.html)
+
+</details>
