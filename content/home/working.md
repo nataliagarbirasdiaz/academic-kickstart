@@ -138,6 +138,18 @@ Despite systematic efforts by both countries and the international community to 
 <br/>
 
 <details>
+<summary> <strong style="color:royalblue"> Conflict exposure and state capacity:  Explaining popular attitudes towards the peace agreement in Colombia </strong> (Under review) <br/>
+Aila M. Matanock, Miguel García-Sánchez, and Natalia Garbiras-Díaz <br/>
+</summary>
+<br/>
+There is no clear consensus on the effect of exposure to conflict on attitudes towards the peaceagreement signed between the Colombian government and the FARC. A group of studies sug-gests that exposure to FARC violence increased support for peace (Dávalos et al., 2018; Tellez, 2019).  Others show that attitudes towards the peace process are not strongly correlated withconflict experiences (Hazlett and Parente, 2020; Liendo and Braithwaite, 2018; Nussio et al.,2015).  In this paper,  we weigh in on this debate.  We argue that existing work on the linkbetween conflict exposure and support for peace has overlooked a key moderating variable:we believe that the structural factor behind attitudes towards peace is state capacity.  Usingnew survey data from a matched sample of municipalities, which differ on conflict levels, weoffer quasi-experimental evidence. We test the effect of conflict exposure on citizens’ attitudestowards three sets of outcomes:  general attitudes towards peace;  provisions included in theaccord that directly benefit former combatants; and those potentially benefit regular citizensvia development programs.  We find that citizens living in regions more affected by conflictare  more  favorable  to  the  peace  agreement  and  its  provisions,  but  only  among  municipali-ties with low levels of state capacity.  This relationship disappears among municipalities withhigher state capacity.   We also find that these supportive attitudes are limited to provisionsthat offer them some evident benefit;  it does not extend to provisions that primarily benefitformer combatants.  Finally, and related to the mechanism, we find that citizens only in lowerstate capacity municipalities that have been affected by conflict are more optimistic about theagreement improving their welfare.  
+
+</details>
+
+
+<br/>
+
+<details>
 <summary> <strong style="color:royalblue"> Actitudes de exintegrantes de las Farc–EP frente a la reincorporación </strong> <br/>
 Ana Arjona, Leopoldo Fergusson, Natalia Garbiras-Díaz, Juana García-Duque, Tatiana Hiller, Lewis Polo and Michael Weintraub <br/>
 </summary>
