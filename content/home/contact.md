@@ -4,7 +4,7 @@
 widget: contact
 
 # This file represents a page section.
-headless: true
+headless: false
 
 # Order that this section appears on the page.
 weight: 60
@@ -17,7 +17,7 @@ content:
   autolink: false
   
   # Email form provider
-  
+  form:
   
 design:
   columns: '2'
