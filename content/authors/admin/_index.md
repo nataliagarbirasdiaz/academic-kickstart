@@ -15,9 +15,8 @@ role: Ph.D. candidate
 # Organizations/Affiliations
 organizations:
 - name: University of California, Berkeley
-  url: ""
-- email: "nataliagarbirasdiaz@berkeley.edu"  
-
+  url: ""  
+  
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
@@ -71,7 +70,7 @@ social:
 #   link: files/CV_NataliaGarbirasDiaz.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "nataliagarbirasdiaz@berkeley.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
