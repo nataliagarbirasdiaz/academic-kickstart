@@ -15,7 +15,7 @@ role: Ph.D. candidate
 # Organizations/Affiliations
 organizations:
 - name: University of California, Berkeley
-  url: "nataliagarbirasdiaz@berkeley.edu"
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -53,7 +53,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:nataliagarbirasdiaz@berkeley.edu"  # For a direct email link, use "mailto:test@example.org".
+  link: "nataliagarbirasdiaz@berkeley.edu"  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/NGarbirasDiaz
