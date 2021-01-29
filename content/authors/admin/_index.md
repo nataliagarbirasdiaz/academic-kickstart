@@ -16,7 +16,7 @@ role: Ph.D. candidate
 organizations:
 - name: University of California, Berkeley
   url: ""
-email = "nataliagarbirasdiaz@berkeley.edu"  
+- email: "nataliagarbirasdiaz@berkeley.edu"  
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
