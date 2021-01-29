@@ -15,7 +15,7 @@ role: Ph.D. candidate
 # Organizations/Affiliations
 organizations:
 - name: University of California, Berkeley
-  url: ""
+  url: "nataliagarbirasdiaz@berkeley.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
