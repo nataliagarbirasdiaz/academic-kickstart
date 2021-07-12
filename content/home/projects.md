@@ -97,6 +97,6 @@ Can crowdsourcing technologies aimed at augmenting civil oversight of elections 
 </details>
 <br/>
 <details>
-  <summary> <strong style="color:royalblue">  Outsiders' valence strategies: the role of anti-corruption and anti-esablishment appeals? </strong> </summary>
+  <summary> <strong style="color:royalblue">  Outsiders' campaign strategies: valence shocks and anti-corruption appeals in the context of local elections in Brazil </strong> </summary>
 In progress.
 </details>
