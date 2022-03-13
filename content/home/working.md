@@ -68,6 +68,7 @@ subtitle = ""
 
 
 <details>
+  
 <summary> <strong strong style="color:royalblue"> All Eyes on Them: A Field Experiment on Citizen Oversight and Electoral Integrity </strong> (Conditionally accepted at the <i> American Economic Review </i>) <br/>
 Natalia Garbiras-Díaz and Mateo Montenegro <br/>
 </summary>
@@ -75,6 +76,8 @@ Natalia Garbiras-Díaz and Mateo Montenegro <br/>
 Can ICTs help citizens monitor their elections? We analyze a large-scale field experiment designed to answer this question in Colombia. We leveraged Facebook advertisements to encourage citizen reporting of irregularities and varied whether candidates were informed about the campaign in a subset of municipalities. Total reports, as well as evidence-backed ones, experienced a large increase. Electoral irregularities decreased, and this effect was larger where candidates were informed about the campaign. Finally, the reporting campaign decreased the vote share of candidates dependent on irregularities. We show that this light-touch intervention is substantially more cost-effective than monitoring efforts traditionally used by policymakers.
   
 * [Working paper](https://www.dropbox.com/s/gb8mzx4w2eth7mv/All_eyes_on_them_MOE___Colombia_Field_Experiment.pdf?dl=0)
+
+</details>
 
 <br/>
   
