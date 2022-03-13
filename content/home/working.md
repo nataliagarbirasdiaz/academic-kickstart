@@ -68,6 +68,15 @@ subtitle = ""
 
 
 <details>
+<summary> <strong strong style="color:royalblue"> All Eyes on Them: A Field Experiment on Citizen Oversight and Electoral Integrity </strong> (Conditionally accepted at the <i> American Economic Review </i>) <br/>
+Natalia Garbiras-Díaz and Mateo Montenegro <br/>
+</summary>
+<br/>
+Can ICTs help citizens monitor their elections? We analyze a large-scale field experiment designed to answer this question in Colombia. We leveraged Facebook advertisements to encourage citizen reporting of irregularities and varied whether candidates were informed about the campaign in a subset of municipalities. Total reports, as well as evidence-backed ones, experienced a large increase. Electoral irregularities decreased, and this effect was larger where candidates were informed about the campaign. Finally, the reporting campaign decreased the vote share of candidates dependent on irregularities. We show that this light-touch intervention is substantially more cost-effective than monitoring efforts traditionally used by policymakers.
+  
+* [Working paper](https://www.dropbox.com/s/gb8mzx4w2eth7mv/All_eyes_on_them_MOE___Colombia_Field_Experiment.pdf?dl=0)
+  
+<details>
 <summary> <strong strong style="color:royalblue"> Using Political Cues for Attitude Formation in Post-Conflict Contexts </strong> (Under review) <br/>
 Natalia Garbiras-Díaz, Miguel García-Sánchez and Aila M. Matanock <br/>
 </summary>
@@ -81,13 +90,13 @@ Citizens are often asked to evaluate peace agreements seeking to end civil confl
 <br/>
 
 <details>
-<summary> <strong style="color:royalblue"> Do citizens' preferences matter? Shaping elite attitudes towards peace agreements </strong> (Conditionally accepted at the Journal of Conflict Resolution) <br/>
+<summary> <strong style="color:royalblue"> Do citizens' preferences matter? Shaping elite attitudes towards peace agreements </strong> (Conditionally accepted at the <i> Journal of Conflict Resolution </i>) <br/>
 Natalia Garbiras-Díaz, Miguel García-Sánchez and Aila M. Matanock <br/>
 </summary>
 <br/>
 To what extent are legislators, responsible for the implementation of many peace agreements, responsive to citizens’ preferences? Examining the Colombian 2016 peace agreement, we embed an experiment in the 2019 wave of a survey of all the members of Congress. We informed legislators about the attitudes of the general population and residents of conflict-affected regions on a provision included in the peace agreement: the creation of 16 special seats in the House of Representatives, reserved for conflict areas. We find that legislators underestimate citizen support for this policy, and the magnitude of their misconception is correlated with the positions of their parties on the issue. Moreover, we find that providing information about citizens’ support for the policy does not affect legislator support for the provision.
 
-  * [Working paper](http://ssrn.com/abstract=4013470)
+* [Working paper](http://ssrn.com/abstract=4013470)
  
 </details>
 
@@ -146,7 +155,7 @@ Aila M. Matanock, Miguel García-Sánchez, and Natalia Garbiras-Díaz <br/>
 <br/>
 There is no clear consensus on the effect of exposure to conflict on attitudes towards peace agreements. For example, in Colombia, some suggest that exposure to FARC violence increases support for peace (Dávalos et al., 2018; Tellez, 2019); others show that attitudes towards the peace process are not strongly correlated with conflict experiences (Hazlett and Parente, 2020; Liendo and Braithwaite, 2018; Nussio et al., 2015). In this paper, we contribute to this debate. While most work assumes that those exposed to violent contexts use their past experiences with violence to form their attitudes toward peace agreements, we argue that people living in these regions form their opinions about the accords by weighing the future benefits that they will have access to after a peace agreement is signed. Using new survey data from a matched sample of municipalities in Colombia, we test the effects of past violence and being a potential beneficiary of the agreement on four sets of outcomes: general attitudes towards peace; provisions included in the accord that directly benefit former combatants; provisions that potentially benefit regular citizens; and the actual expected benefits. We find that previous experience with violence has almost no association with these attitudes; however, being a resident of a locality targeted by provisions that potentially provide peace dividends has a consistent and strong impact on these attitudes.
 
-    * [Working paper](http://ssrn.com/abstract=4013416)
+* [Working paper](http://ssrn.com/abstract=4013416)
   
 </details>
 
