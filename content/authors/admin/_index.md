@@ -65,9 +65,9 @@ social:
   link: https://github.com/nataliagarbirasdiaz
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: files/CV_NataliaGarbirasDiaz.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: files/CV_NataliaGarbirasDiaz.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "natalia.garbirasdiaz@eui.eu"
@@ -83,3 +83,5 @@ I am a [Max Weber Fellow](https://www.eui.eu/people?id=natalia-garbiras-diaz) at
 My main research interests are in comparative politics and the political economy of development, focusing on corruption, public goods provision, and accountability in Latin America. I also study the formation of citizen and ex-combatant attitudes and their role in stabilizing peace in post-conflict settings. In my dissertation, I explore the information and institutional environments that pave the way for outsider candidates' rise and success.
 
 I hold an M.A. in Economics from the University of Los Andes (Colombia). Before coming to Berkeley, I worked at the World Bank, the Observatory of Democracy, and Colombia's National Planning Department.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "files/CV_NataliaGarbirasDiaz.pdf" "newtab" >}}CV{{< /staticref >}}.
