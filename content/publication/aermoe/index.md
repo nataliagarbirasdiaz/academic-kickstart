@@ -1,6 +1,6 @@
 +++
 title = "All Eyes on Them: A Field Experiment on Citizen Oversight and Electoral Integrity"
-date = "2022"
+date = "2022-05-25"
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
