@@ -49,8 +49,8 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = ""
-url_preprint = ""
+url_pdf = "https://www.dropbox.com/s/gb8mzx4w2eth7mv/All_eyes_on_them_MOE___Colombia_Field_Experiment.pdf?dl=0"
+url_preprint = "https://www.aeaweb.org/articles?id=10.1257/aer.20210778&from=f"
 url_code = ""
 url_dataset = ""
 url_project = ""
