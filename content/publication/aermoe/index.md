@@ -1,6 +1,6 @@
 +++
 title = "All Eyes on Them: A Field Experiment on Citizen Oversight and Electoral Integrity"
-date = forthcoming
+date = ""
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,7 +18,7 @@ authors = ["Natalia Garbiras-Díaz", "Mateo Montenegro"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*American Economic Review*"
+publication = "*American Economic Review*. Forthcomming"
 publication_short = ""
 
 # Abstract and optional shortened version.
