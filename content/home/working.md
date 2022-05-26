@@ -68,20 +68,6 @@ subtitle = ""
 
 
 <details>
-  
-<summary> <strong strong style="color:royalblue"> All Eyes on Them: A Field Experiment on Citizen Oversight and Electoral Integrity </strong> (Conditionally accepted at the <i> American Economic Review </i>) <br/>
-Natalia Garbiras-Díaz and Mateo Montenegro <br/>
-</summary>
-<br/>
-Can ICTs help citizens monitor their elections? We analyze a large-scale field experiment designed to answer this question in Colombia. We leveraged Facebook advertisements to encourage citizen reporting of irregularities and varied whether candidates were informed about the campaign in a subset of municipalities. Total reports, as well as evidence-backed ones, experienced a large increase. Electoral irregularities decreased, and this effect was larger where candidates were informed about the campaign. Finally, the reporting campaign decreased the vote share of candidates dependent on irregularities. We show that this light-touch intervention is substantially more cost-effective than monitoring efforts traditionally used by policymakers.
-  
-* [Working paper](https://www.dropbox.com/s/gb8mzx4w2eth7mv/All_eyes_on_them_MOE___Colombia_Field_Experiment.pdf?dl=0)
-
-</details>
-
-<br/>
-  
-<details>
 <summary> <strong strong style="color:royalblue"> Using Political Cues for Attitude Formation in Post-Conflict Contexts </strong> (Under review) <br/>
 Natalia Garbiras-Díaz, Miguel García-Sánchez and Aila M. Matanock <br/>
 </summary>
@@ -90,19 +76,6 @@ Citizens are often asked to evaluate peace agreements seeking to end civil confl
   
 * [ESOC Working paper 19](https://esoc.princeton.edu/WP19)
   
-</details>
-
-<br/>
-
-<details>
-<summary> <strong style="color:royalblue"> Do citizens' preferences matter? Shaping elite attitudes towards peace agreements </strong> (Conditionally accepted at the <i> Journal of Conflict Resolution </i>) <br/>
-Natalia Garbiras-Díaz, Miguel García-Sánchez and Aila M. Matanock <br/>
-</summary>
-<br/>
-To what extent are legislators, responsible for the implementation of many peace agreements, responsive to citizens’ preferences? Examining the Colombian 2016 peace agreement, we embed an experiment in the 2019 wave of a survey of all the members of Congress. We informed legislators about the attitudes of the general population and residents of conflict-affected regions on a provision included in the peace agreement: the creation of 16 special seats in the House of Representatives, reserved for conflict areas. We find that legislators underestimate citizen support for this policy, and the magnitude of their misconception is correlated with the positions of their parties on the issue. Moreover, we find that providing information about citizens’ support for the policy does not affect legislator support for the provision.
-
-* [Working paper](http://ssrn.com/abstract=4013470)
- 
 </details>
 
 <br/>
