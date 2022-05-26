@@ -22,7 +22,7 @@ publication = "*American Economic Review*. Forthcomming"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "Can Information and Communication Technologies help citizens monitor their elections? We analyze a large-scale field experiment designed to answer this question in Colombia. We leveraged Facebook advertisements sent to over 4 million potential voters to encourage citizen reporting of electoral irregularities. We also cross-randomized whether candidates were informed about the campaign in a subset of municipalities. Total reports, and evidence-backed ones, experienced a large increase. Across a wide array of measures, electoral irregularities decreased. Finally, the reporting campaign reduced the vote share of candidates dependent on irregularities. This light-touch intervention is more cost-effective than monitoring efforts traditionally used by policymakers."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
