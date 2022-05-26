@@ -29,10 +29,10 @@ interests:
 
 education:
   courses:
-  - course: PhD candidate in Political Science
+  - course: PhD in Political Science
     institution: University of California, Berkeley
-    year:
-  - course: MA in Political Science
+    year: 2021
+  - course: MA in Political Science (with distinction)
     institution: University of California, Berkeley
     year: 2016
   - course: MA in Economics
@@ -65,12 +65,12 @@ social:
   link: https://github.com/nataliagarbirasdiaz
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/CV_NataliaGarbirasDiaz.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/CV_NataliaGarbirasDiaz.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "nataliagarbirasdiaz@berkeley.edu"
+email: "natalia.garbirasdiaz@eui.eu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
