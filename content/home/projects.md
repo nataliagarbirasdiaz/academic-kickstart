@@ -76,7 +76,7 @@ subtitle = ""
 +++
 
 **Title:** *Paving the way for the rise of outsiders: candidate and voter behavior in the era of political disillusionment* <br/>
-**Committee:** Thad Dunning (Chair), Aila Matanock, Ruth Collier & Ernesto Dal Bó <br/>
+**Committee:** Thad Dunning (Chair), Aila Matanock, Ruth Collier & Jennifer Bussell <br/>
 
 My dissertation studies the causes and consequences of anti-establishment political candidates. Across many young and advanced democracies alike, citizens are disillusioned with political and party systems. In this context, I argue that anti-establishment and anti-corruption appeals provide promising campaign devices for political challengers seeking to mobilize those disenchanted voters. Yet, the effectiveness of these appeals varies across informational and institutional environments, as I explore in different parts of my dissertation. 
 
@@ -87,16 +87,19 @@ Public opinion surveys show rising levels of distrust in parties and anti-elite 
 </details>
 <br/>
 <details>
-<summary> <strong style="color:royalblue"> Monitoring the Vote or Voting to Monitor? Evidence from Two Large Scale Field Experiments in Colombia </strong> </summary>
+<summary> <strong style="color:royalblue"> All Eyes on Them: A Field Experiment on Citizen Oversight and Electoral Integrity </strong> </summary>
 With Mateo Montenegro
 <br/>  
 Can crowdsourcing technologies aimed at augmenting civil oversight of elections increase electoral integrity? We report the results of two large-scale field experiments designed to assess the effectiveness of online crowdsourcing technologies in increasing the engagement of civil society in electoral monitoring around elections in Colombia. We leveraged Facebook advertisements to encourage citizen reporting of electoral irregularities through official websites, and also varied whether candidates were informed about the campaign in a subset of municipalities. In addition to the expected informational effects – whereby citizen reports increased, and politicians reduced their engagement in electoral irregularities – the results highlight powerful salience effects, which operated by making electoral irregularities more top-of-mind to citizens. Specifically, the advertisements generated a large shift in the vote share of candidates perceived to be less corrupt and away from those perceived to be more corrupt. We argue that these salience effects are driven by a shift in voter preferences towards candidates they perceived as ‘cleaner’. We formally test this hypothesis in a follow-up experiment around the 2019 mayoral elections in which we vary the salience of electoral irregularities in the advertisements sent through Facebook. As expected, we find that the advertisements featuring messages emphasizing the salience of electoral misdeeds generate a larger shift in the votes for ‘cleaner’ candidates than the ones only providing information about the reporting website.
 
 * [Working paper](https://economics.mit.edu/files/18461)  
+<br/> 
+* [Recipient of the APSA Experiments Section Best Dissertation Award](https://connect.apsanet.org/groups/experimental-research-section-42/forum/topic/apsa-experiments-section-best-dissertation-award-winners/)
 
 </details>
 <br/>
 <details>
-  <summary> <strong style="color:royalblue">  Outsiders' campaign strategies: valence shocks and anti-corruption appeals in the context of local elections in Brazil </strong> </summary>
-In progress.
+  <summary> <strong style="color:royalblue">  Anti-corruption shocks and outsiders' electoral entrance: Evidence from local audits in Brazil </strong> </summary>
+<br/> 
+In this paper, I assess how changes in voter awareness of valence issues may influence not only voters but also candidate strategies. While revelations about corruption have been shown to influence citizens' votes, less is known about how outsiders take advantage of the increased opportunity to enter the electoral race. I construct a new measure of candidates' use of anti-corruption rhetoric using the manifestos registered by more than fifty thousand mayoral candidates in Brazil who ran for election between 2012 and 2020. I show that outsider candidates are, in general, more likely to resort to anti-corruption appeals. I then exploit the revelation of corruption in Brazilian mayoral accounts, using random annual audits conducted by the federal government to test whether outsider candidates are more likely to take advantage of changes in the salience of corruption. The results indicate that municipalities exposed to this valence shock experienced greater entry of outsider candidates. This paper points to how changes in corruption salience can help overcome barriers to entry for outside candidates; in doing so, it calls for future research on the potential effects on risks of democratic backsliding.
 </details>
