@@ -1,6 +1,6 @@
 +++
 title = "All Eyes on Them: A Field Experiment on Citizen Oversight and Electoral Integrity"
-date = "2022-05-25"
+date = "2022-07-27"
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,8 +18,8 @@ authors = ["Natalia Garbiras-Díaz", "Mateo Montenegro"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*American Economic Review*. Forthcomming"
-publication_short = ""
+publication = "Garbiras-Díaz, Natalia, and Mateo Montenegro. 2022. "All Eyes on Them: A Field Experiment on Citizen Oversight and Electoral Integrity." American Economic Review, 112 (8): 2631-68."
+publication_short = "*American Economic Review*"
 
 # Abstract and optional shortened version.
 abstract = "Can Information and Communication Technologies help citizens monitor their elections? We analyze a large-scale field experiment designed to answer this question in Colombia. We leveraged Facebook advertisements sent to over 4 million potential voters to encourage citizen reporting of electoral irregularities. We also cross-randomized whether candidates were informed about the campaign in a subset of municipalities. Total reports, and evidence-backed ones, experienced a large increase. Across a wide array of measures, electoral irregularities decreased. Finally, the reporting campaign reduced the vote share of candidates dependent on irregularities. This light-touch intervention is more cost-effective than monitoring efforts traditionally used by policymakers."
@@ -49,8 +49,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "https://www.dropbox.com/s/gb8mzx4w2eth7mv/All_eyes_on_them_MOE___Colombia_Field_Experiment.pdf?dl=0"
-url_preprint = "https://www.aeaweb.org/articles?id=10.1257/aer.20210778&from=f"
+url_pdf = "https://www.aeaweb.org/articles?id=10.1257/aer.20210778"
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -61,7 +60,8 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+ url_custom = [{name = "Ungated", url = "https://www.dropbox.com/s/gb8mzx4w2eth7mv/All_eyes_on_them_MOE___Colombia_Field_Experiment.pdf?dl=0"
+url_preprint = "https://www.aeaweb.org/articles?id=10.1257/aer.20210778&from=f"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
