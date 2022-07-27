@@ -18,7 +18,7 @@ authors = ["Natalia Garbiras-Díaz", "Mateo Montenegro"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Garbiras-Díaz, Natalia, and Mateo Montenegro. 2022. "All Eyes on Them: A Field Experiment on Citizen Oversight and Electoral Integrity." American Economic Review, 112 (8): 2631-68."
+publication = "Garbiras-Díaz, Natalia, and Mateo Montenegro. 2022. ''All Eyes on Them: A Field Experiment on Citizen Oversight and Electoral Integrity.'' American Economic Review, 112 (8): 2631-68."
 publication_short = "*American Economic Review*"
 
 # Abstract and optional shortened version.
@@ -50,6 +50,7 @@ tags = []
 
 # Links (optional).
 url_pdf = "https://www.aeaweb.org/articles?id=10.1257/aer.20210778"
+url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -60,8 +61,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
- url_custom = [{name = "Ungated", url = "https://www.dropbox.com/s/gb8mzx4w2eth7mv/All_eyes_on_them_MOE___Colombia_Field_Experiment.pdf?dl=0"
-url_preprint = "https://www.aeaweb.org/articles?id=10.1257/aer.20210778&from=f"}]
+ url_custom = [{name = "Ungated", url = "https://www.dropbox.com/s/gb8mzx4w2eth7mv/All_eyes_on_them_MOE___Colombia_Field_Experiment.pdf?dl=0"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
