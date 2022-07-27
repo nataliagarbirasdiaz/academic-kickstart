@@ -49,7 +49,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "https://www.aeaweb.org/articles?id=10.1257/aer.20210778"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
