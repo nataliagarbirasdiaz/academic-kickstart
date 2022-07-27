@@ -64,7 +64,7 @@ url_source = ""
  url_custom = [{name = "Ungated", url = "https://www.dropbox.com/s/gb8mzx4w2eth7mv/All_eyes_on_them_MOE___Colombia_Field_Experiment.pdf?dl=0"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "https://doi.org/10.1257/aer.20210778"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
