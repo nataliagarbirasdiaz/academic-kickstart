@@ -81,6 +81,20 @@ Citizens often have to evaluate peace agreements by voting on referendums or the
 <br/>
 
 <details>
+<summary> <strong style="color:royalblue"> The Limits of Decentralized Administrative Data Collection: Experimental Evidence from Colombia </strong> <br/>
+Natalia Garbiras-Díaz and Tara Slough <br/>
+</summary>
+<br/>
+States collect vast amounts of data for use in policymaking and public administration. To do so, central governments frequently solicit data from the bureaucrats of decentralized government entities. Because central governments use these data in policymaking, bureaucrats in decentralized entities may face incentives to report inaccurately, limiting the quality of state data. We study these dynamics in the production of Colombia’s 2020 National Transparency Index in collaboration with the Colombian Attorney Inspector General’s office. A field experiment varied the salience of direct oversight of the reported data by this watchdog agency in direct communication to individual bureaucratic entities. Bureaucrats respond to more salient oversight by changing reporting behavior. Through an independent audit of subjects’ transparency practices, we describe how bureaucrats’ reporting behaviors vary in the actual transparency practices of their organization. We argue that the strategic dynamics inherent to decentralized data production by bureaucrats render state data an important but understudied political outcome.
+
+* Presented at the 2021 APSA Annual Meeting
+
+</details>
+
+
+<br/>
+
+<details>
 <summary> <strong style="color:royalblue"> Untouchable Forces: Restoring Trust in Security in Weak States? </strong> <br/>
 Aila M. Matanock and Natalia Garbiras-Díaz <br/>
 </summary>
