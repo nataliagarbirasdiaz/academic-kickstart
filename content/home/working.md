@@ -68,11 +68,11 @@ subtitle = ""
 
 
 <details>
-<summary> <strong strong style="color:royalblue"> Using Political Cues for Attitude Formation in Post-Conflict Contexts </strong> (R&R) <br/>
+<summary> <strong strong style="color:royalblue"> Using Political Cues for Attitude Formation in Post-Conflict Contexts </strong> (R&R Journal of Peace Research) <br/>
 Natalia Garbiras-Díaz, Miguel García-Sánchez and Aila M. Matanock <br/>
 </summary>
 <br/>
-Citizens are often asked to evaluate peace agreements seeking to end civil conflicts, by voting on referendums or the negotiating leaders or, even when not voting, deciding whether to cooperate with the implementation of policies like combatant reintegration. In this paper, we assess how citizens form attitudes towards the provisions in peace agreements. These contexts tend to have high polarization, and citizens are asked to weigh in on complex policies, so we theorize that citizens will use cues from political elites with whom they have affinity, and, without these cues, information will have less effect. We assess our theory using survey experiments in Colombia. We find citizens rely on political elites' cues to form their opinion on a peace agreement's provisions, with the direction depending on the citizen's affinity with the political elites. Additional information about these policies has little effect. The paper suggests that even these high stakes decisions can be seen as politics as usual.
+Citizens often have to evaluate peace agreements by voting on referendums or the negotiating leaders or by deciding whether to cooperate with implementation. In this paper, we assess how citizens form attitudes towards the provisions emerging from settlements. Citizens seeking to survive and rebuild are evaluating complex policies in contexts that tend to be politically factionalized. We theorize that they will use cues from political elites with whom they have affinity. We test our theory using survey experiments in Colombia. We find citizens rely on political elites' cues to form their opinion on the peace agreement's provisions, with the direction depending on their affinity with these elites. These cues appear to supply easily-accessible information that respondents use over other information sources. In contrast to other work that sees peace processes as exceptional and citizens as potential stabilizing forces, our results suggest that even these high-stakes decisions are politics as usual.
   
 * [ESOC Working paper 19](https://esoc.princeton.edu/WP19)
   
@@ -98,7 +98,7 @@ Natalia Garbiras-Díaz and Laura García-Montoya <br/>
 <br/>
 Between 1947 and 1994, Radio Sutatenza influenced the lives of millions of Colombians through its broadcasted lessons and *Escuelas Radiofónicas*. In this paper, we explore the effects of Radio Sutatenza and Escuelas Radiofónicas on armed conflict intensity. That is both on violence and on the expansion of armed group presence. The findings of this paper advance our understanding of the relationship between education and civil war. The context in which Radio Sutatenza was created and its later phase of expansion offers a unique opportunity to study whether education can break violence cycles. We estimate the effect of Escuelas Radiofónicas on the incidence of violence at the municipal level using two different identification strategies, a difference in differences design and an instrumental variables approach. We find robust evidence for the pacifying effect of education at the subnational level. Specifically, municipalities with radio schools experienced lower violence levels in the 1960s and, later, in the 1970s. 
 
-* Presented in the 2020 APSA Annual Meeting
+* Presented at the 2020 APSA Annual Meeting
 </details>
 
 <br/>
@@ -110,14 +110,14 @@ Mario Chacón and Natalia Garbiras-Díaz <br/>
 <br/>
 Can the size of the legislature affect the efficiency and quality of public administration? Recent empirical work on the economic consequences of legislative organization has focused exclusively on the relationship between legislative size and fiscal spending. We expand the scope of this literature by exploring the impact of bigger legislative bodies on the efficiency of public service provision. We use a constitutional rule which creates a discontinuous relationship between population and size of elected councils in Colombia to estimate the effect of legislature size on the efficiency of local public goods. Theoretically a bigger councils should increase the checks and accountability on the local executive, and thus leading to higher and better quality public goods provision. Yet we find no systematic evidence for such positive mechanism. Moreover, we find preliminary negative and signifficant effects on fiscal and administrative efficiency, particularly in small cities. Our results indicate a more nuanced relationship between legislative size and government efficiency, and complement the theoretical literature on public overspending.
 
-* Presented in the 2017 EPSA Annual Meeting
+* Presented at the 2017 EPSA Annual Meeting
 </details>
 
 <br/>
 
 <details>
 <summary> <strong style="color:royalblue"> Do Third Parties Reduce Commitment Problems After Civil War? Microfoundational Evidence from Ex-Combatants in Colombia </strong> <br/>
-Leopoldo Fergusson. Natalia Garbiras-Díaz, Juana García, Michael Weintraub and Laia Balcells
+Leopoldo Fergusson, Natalia Garbiras-Díaz, Juana García, Michael Weintraub and Laia Balcells
 </summary>
 <br/>
 Since the Cold War, international third parties such as the United Nations (UN) have become frequent guarantors of peace agreements. Existing studies demonstrate that third parties ameliorate credible commitment problems, in part by reducing acute security threats faced by members of former rebel groups. Yet these studies exclusively marshal evidence at the macro-level, and are therefore unable to show whether ex-combatants are truly reassured by the presence and activities of third parties, and in what ways. Using a novel phone survey of 4,435 ex-combatants from the FARC-EP, Colombia’s largest rebel group, and an embedded survey experiment, we provide the first microfoundational test of prominent third party credible commitment theories. We find no evidence that third actors: increased confidence among ex-combatants that the government would fulfill its commitment to implement the peace agreement; increased confidence that the FARC would do the same; improved perceptions of physical safety; or increased trust in institutions more generally. Put differently, we are unable to recover microfoundational evidence in favor of third party credible commitment theories. We discuss potential explanations for these null findings and the study’s relevance for debates about conflict termination, implementation of the agreements and the duration of peace.
