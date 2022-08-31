@@ -66,7 +66,11 @@ subtitle = ""
  css_class = ""
 +++
 
-
+<section>
+<h1>Anti-establishment politics</h1>
+             
+ 
+<p>
 <details>
 <summary> <strong strong style="color:royalblue"> Using Political Cues for Attitude Formation in Post-Conflict Contexts </strong> (R&R Journal of Peace Research) <br/>
 Natalia Garbiras-Díaz, Miguel García-Sánchez and Aila M. Matanock <br/>
@@ -79,6 +83,7 @@ Citizens often have to evaluate peace agreements by voting on referendums or the
 </details>
 
 <br/>
+</p> </section>
 
 <details>
 <summary> <strong style="color:royalblue"> The Limits of Decentralized Administrative Data Collection: Experimental Evidence from Colombia </strong> <br/>
