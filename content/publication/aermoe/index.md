@@ -18,7 +18,7 @@ authors = ["Natalia Garbiras-Díaz", "Mateo Montenegro"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Garbiras-Díaz, Natalia, and Mateo Montenegro. 2022. ''All Eyes on Them: A Field Experiment on Citizen Oversight and Electoral Integrity.'' American Economic Review, 112 (8): 2631-68."
+publication = "Garbiras-Díaz, Natalia, and Mateo Montenegro. 2022. ''All Eyes on Them: A Field Experiment on Citizen Oversight and Electoral Integrity.'' *American Economic Review*, 112 (8): 2631-68."
 publication_short = "*American Economic Review*, 112 (8): 2631-68"
 
 # Abstract and optional shortened version.
