@@ -67,4 +67,7 @@ subtitle = ""
  css_class = ""
 +++
 
+{{% alert note %}}
+[Filter publications by type]({{< ref "/publication/_index.md" >}}).
+{{% /alert %}}
 
