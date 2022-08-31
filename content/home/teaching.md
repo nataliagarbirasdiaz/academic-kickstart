@@ -66,7 +66,7 @@ subtitle = ""
  css_class = ""
 +++
 
-*University of California, Berkeley* <br/>
+<h2>University of California, Berkeley<h2>  {{< staticref "files/Student_evals/UCBerkeley/Teaching_effectiveness_all_NGD.pdf" "newtab" >}}Download{{< /staticref >}} <br/>
 <br/>
 **PS 231B: Quantitative Analysis in Political Research** <br/>
 &nbsp; &nbsp; Graduate-level course, UC Berkeley, Spring 2017 <br/>
