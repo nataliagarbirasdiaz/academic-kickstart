@@ -69,18 +69,32 @@ subtitle = ""
 <section>
 
 <h2>Lecturer</h2> 
-
+<section>
+<h3>European University Institute, Florence, Italy</h3> 
+<p>
+&nbsp; &nbsp; **Field Experiments Part I**, with [Miriam Golden](https://www.miriamgolden.com/)
+<br/>
+<h3>Universidad de Los Andes, Bogota, Colombia</h3> {{< staticref "files/Student_evals/UCBerkeley/Teaching_effectiveness_all_NGD.pdf" "newtab" >}}Teaching evaluations{{< /staticref >}} 
+<p>
+&nbsp; &nbsp; **Clientelismo y Corrupción** (course taught in Spanish) {{< staticref "files/Student_evals/Uniandes/REPORTE PRINCIPAL-NATALIA GARBIRAS DIAZ-202110.pdf" "newtab" >}}Teaching evaluations{{< /staticref >}} 
+<br/>
+</p>
+<h3>Universidad Católica de Uruguya, Montevideo, Uruguya</h3> {{< staticref "files/Student_evals/CatolicaUruguay/request.pdf" "newtab" >}}Teaching evaluations{{< /staticref >}} 
+<p>
+&nbsp; &nbsp; **Experimentos de Campo en las Ciencias Sociales: Teor ́ıa y Pr ́actica** (course taught in Spanish)
+<br/>
+</p>  
+</section>
 </section>
 
 <section>
-
 <h2>Graduate Student Instructor</h2> 
 <section>
-<h3>University of California, Berkeley</h3>  {{< staticref "files/Student_evals/UCBerkeley/Teaching_effectiveness_all_NGD.pdf" "newtab" >}}Download{{< /staticref >}} <br/>
+<h3>University of California, Berkeley</h3>  {{< staticref "files/Student_evals/UCBerkeley/Teaching_effectiveness_all_NGD.pdf" "newtab" >}}Teaching evaluations{{< /staticref >}} 
 <p>
 **PS 231B: Quantitative Analysis in Political Research** <br/>
 &nbsp; &nbsp; Graduate-level course, UC Berkeley, Spring 2017 <br/>
-&nbsp; &nbsp; Graduate Student Instructor for Professor Thad Dunning 
+&nbsp; &nbsp; Graduate Student Instructor for Professor [Thad Dunning](http://www.thaddunning.com/) 
 <br/>
 **PS 3: Introduction to Empirical Analysis and Quantitative Methods** <br/>
 &nbsp; &nbsp; Undergraduate-level course, UC Berkeley, Fall 2016 <br/>
@@ -95,26 +109,25 @@ subtitle = ""
 &nbsp; &nbsp; Graduate Student Instructor for Professor Robert Powell 
 <br/>
 </p>
-
 </section>  
 </section>
 
 <section>
-<h2>Other</h3>
+<h2>Other</h2>
 <br/>
 <section>
-<h3>Teaching Assistant for the EGAP Learning Days</h3> <br/>
+<h3>Teaching Assistant for the EGAP Learning Days</h3> 
+<p>
 &nbsp; &nbsp; [Workshop 2](https://egap.org/project/learning-days-2-santiago/) in Santiago, Chile May 2016 <br/>
-<br/>
-**Instructor for the EGAP Learning Days** <br/>
+<h3>Instructor for the EGAP Learning Days*</h3>
 &nbsp; &nbsp; [Workshop 5](https://egap.org/project/learning-days-5-guatemala-city/) in Guatemala City, Guatemala August 2017 <br/>
 &nbsp; &nbsp; [Workshop 7](https://egap.org/project/learning-days-7-montevideo/) in Montevideo, Uruguay February 2018 <br/>
 &nbsp; &nbsp; [Workshop 8](https://egap.org/project/learning-days-8-bogota/) in Bogotá, Colombia April 2019 <br/>
-<br/>
-**Universidad de Los Andes** <br/>
+&nbsp; &nbsp; [Workshop1]([https://egap.org/project/learning-days-8-bogota/](https://egap.org/es/project/learning-days-11-taller-hub-regional-latinoamerica/)) in Bogotá, Colombia December 2022 <br/>
+<h3>Undergraduate teaching assistant at the Universidad de Los Andes</h3> 
 &nbsp; &nbsp; Methodology Workshop (undergraduate) with Juan Carlos Rodríguez-Raga (Fall 2012) <br/>
 &nbsp; &nbsp; Game Theory (undergraduate) with Oskar Nupia (Spring 2011) <br/>
 &nbsp; &nbsp; Fundamentals of Methodology (undergraduate) with Miguel García-Sánchez (Spring 2011)
-  
+</p>
 </section>
-  </section>
+</section>
