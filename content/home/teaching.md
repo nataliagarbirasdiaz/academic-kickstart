@@ -71,19 +71,24 @@ subtitle = ""
 <h3>Lecturer</h3> 
 <section>
 <h4>European University Institute, Florence, Italy</h4> 
-&nbsp; &nbsp; **Field Experiments Part I**, with [Miriam Golden](https://www.miriamgolden.com/)
+<p>  
+&nbsp; &nbsp; <em>Field Experiments Part I</em>, with [Miriam Golden](https://www.miriamgolden.com/)
+</p>
 <h4>Universidad de Los Andes, Bogota, Colombia</h4> 
-&nbsp; &nbsp; **Clientelismo y Corrupción** (course taught in Spanish) {{< staticref "files/Student_evals/Uniandes/REPORTE PRINCIPAL-NATALIA GARBIRAS DIAZ-202110.pdf" "newtab" >}}Teaching evaluations{{< /staticref >}} 
-<br/>
+<p>  
+&nbsp; &nbsp; <em>Clientelismo y Corrupción</em> (course taught in Spanish) {{< staticref "files/Student_evals/Uniandes/REPORTE PRINCIPAL-NATALIA GARBIRAS DIAZ-202110.pdf" "newtab" >}}[Teaching evaluations]{{< /staticref >}} 
+</p>
 <h4>Universidad Católica de Uruguay, Montevideo, Uruguya</h4> 
-&nbsp; &nbsp; **Experimentos de Campo en las Ciencias Sociales: Teoría y Práctica** (course taught in Spanish) {{< staticref "files/Student_evals/CatolicaUruguay/request.pdf" "newtab" >}}Teaching evaluations{{< /staticref >}} 
+<p>
+&nbsp; &nbsp; <em>Experimentos de Campo en las Ciencias Sociales: Teoría y Práctica</em> (course taught in Spanish) {{< staticref "files/Student_evals/CatolicaUruguay/request.pdf" "newtab" >}}[Teaching evaluations]{{< /staticref >}} 
+</p>
 </section>
 </section>
 
 <section>
 <h2>Graduate Student Instructor</h2> 
 <section>
-<h3>University of California, Berkeley</h3>  {{< staticref "files/Student_evals/UCBerkeley/Teaching_effectiveness_all_NGD.pdf" "newtab" >}}Teaching evaluations{{< /staticref >}} 
+<h3>University of California, Berkeley</h3>  
 <p>
 **PS 231B: Quantitative Analysis in Political Research** <br/>
 &nbsp; &nbsp; Graduate-level course, UC Berkeley, Spring 2017 <br/>
@@ -101,6 +106,7 @@ subtitle = ""
 &nbsp; &nbsp; Undergraduate-level course, UC Berkeley, Fall 2015 <br/>
 &nbsp; &nbsp; Graduate Student Instructor for Professor Robert Powell 
 <br/>
+{{< staticref "files/Student_evals/UCBerkeley/Teaching_effectiveness_all_NGD.pdf" "newtab" >}}[Teaching evaluations]{{< /staticref >}}   
 </p>
 </section>  
 </section>
