@@ -61,7 +61,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+ url_custom = [{name = "Article", url = "https://journals.sagepub.com/doi/full/10.1177/00220027221099245"}]
 
 # Digital Object Identifier (DOI)
 doi = "/10.1177/00220027221099245"
