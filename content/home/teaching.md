@@ -106,7 +106,7 @@ subtitle = ""
   <li><em>ECON 110: Game Theory in the Social Sciences</em>. Instructor: Robert Powell. Undergraduate-level course, Fall 2015 </li>
 </ul>
 <br/>
-{{< staticref "files/Student_evals/UCBerkeley/Teaching_effectiveness_all_NGD.pdf" "newtab" >}}<small>[Teaching evaluations]</small>{{< /staticref >}}   
+{{< staticref "files/Student_evals/UCBerkeley/Teaching_effectiveness_all_NGD.pdf" "newtab" >}}<small>[Teaching evaluations for all courses]</small>{{< /staticref >}}   
 </p>
 </section>  
 </section>
