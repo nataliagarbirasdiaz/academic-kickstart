@@ -71,6 +71,7 @@ subtitle = ""
 
 <details>
 <summary> <strong strong style="color:royalblue"> Corruption and the Rise of Political Outsiders: Evidence from local elections and audits in Brazil </strong>  <br/>
+Natalia Garbiras-Díaz <br/>
 </summary>
 <br/>
 How does corruption salience influence the entry of political outsiders? While revelations about corruption are known to influence citizens’ votes, it is unclear whether outsiders take advantage of new opportunities provided by corruption scandals to contest elections. I argue that corruption is a valence issue that allows outsider candidates to draw support from disaffected voters across the ideological spectrum. Using manifestos registered by over forty-nine thousand mayoral candidates in Brazil who ran for election between 2012 and 2020, I construct a novel measure of candidates' use of anti-corruption rhetoric and show that outsider candidates are more likely to resort to this valence appeal. I then exploit revelations of corruption in Brazilian mayoral accounts, using random annual audits conducted by the federal government, to test whether outsider candidates are more likely to take advantage of changes in the salience of corruption. Results indicate that municipalities exposed to such shocks experienced a greater entry of outsider candidates. This paper shows that changes in corruption salience can help overcome barriers to entry for outsider candidates, thereby providing motivation for future research as to the downstream consequences of these shocks, including on democratic backsliding.
@@ -81,6 +82,7 @@ How does corruption salience influence the entry of political outsiders? While r
 
 <details>
 <summary> <strong strong style="color:royalblue"> Does compulsory voting breed anti-establishment voting? Evidence from Brazilian presidential elections </strong>  <br/>
+Natalia Garbiras-Díaz <br/>
 </summary>
 <br/>
 Public opinion surveys show rising levels of distrust in parties and anti-elite preferences among voters worldwide. By capitalizing on this sentiment, anti-establishment candidates have increasingly won office in new and established democracies alike. Yet, certain institutional arrangements may be more conducive to the electoral success of these candidates. In this paper, I argue that compulsory voting may boost anti-establishment candidates by encouraging turnout among voters who would have otherwise abstained. At the voting booth, these voters are more likely to vote for candidates who align with their anti-establishment sentiment. I test this theory in the context of Brazil’s 2018 presidential election, leveraging age thresholds that make voting compulsory at the individual level as well as randomized variation in the proportion of compulsory voters across voting booths. I demonstrate that compulsory voting led to a sizable increase in electoral support for anti-establishment presidential candidate Jair Bolsonaro. My findings underscore how critical turnout is for the prospects of anti-establishment candidates, as well as the unexpected effect of an institution often thought to bolster the quality of democracy. 
@@ -170,6 +172,9 @@ En agosto del 2019 se cumplieron dos años de la reincorporación de las Farc-EP
 * [CEDE Working Paper 2020-24](https://ideas.repec.org/p/col/000089/018247.html)
 
 </details>  
+
+ <br/>
+  
 <details>
 <summary> <strong style="color:royalblue"> Untouchable Forces: Restoring Trust in Security in Weak States? </strong> <br/>
 Aila M. Matanock and Natalia Garbiras-Díaz <br/>
@@ -190,8 +195,6 @@ Between 1947 and 1994, Radio Sutatenza influenced the lives of millions of Colom
 
 * Presented at the 2020 APSA Annual Meeting
 </details>
-
-<br/>
   
 </p> </section>
 
