@@ -68,22 +68,15 @@ subtitle = ""
 
 <section>
 
-<h2>Lecturer</h2> 
+<h3>Lecturer</h3> 
 <section>
-<h3>European University Institute, Florence, Italy</h3> 
-<p>
+<h4>European University Institute, Florence, Italy</h4> 
 &nbsp; &nbsp; **Field Experiments Part I**, with [Miriam Golden](https://www.miriamgolden.com/)
-<br/>
-<h3>Universidad de Los Andes, Bogota, Colombia</h3> {{< staticref "files/Student_evals/UCBerkeley/Teaching_effectiveness_all_NGD.pdf" "newtab" >}}Teaching evaluations{{< /staticref >}} 
-<p>
+<h4>Universidad de Los Andes, Bogota, Colombia</h4> 
 &nbsp; &nbsp; **Clientelismo y Corrupción** (course taught in Spanish) {{< staticref "files/Student_evals/Uniandes/REPORTE PRINCIPAL-NATALIA GARBIRAS DIAZ-202110.pdf" "newtab" >}}Teaching evaluations{{< /staticref >}} 
 <br/>
-</p>
-<h3>Universidad Católica de Uruguya, Montevideo, Uruguya</h3> {{< staticref "files/Student_evals/CatolicaUruguay/request.pdf" "newtab" >}}Teaching evaluations{{< /staticref >}} 
-<p>
-&nbsp; &nbsp; **Experimentos de Campo en las Ciencias Sociales: Teor ́ıa y Pr ́actica** (course taught in Spanish)
-<br/>
-</p>  
+<h4>Universidad Católica de Uruguay, Montevideo, Uruguya</h4> 
+&nbsp; &nbsp; **Experimentos de Campo en las Ciencias Sociales: Teoría y Práctica** (course taught in Spanish) {{< staticref "files/Student_evals/CatolicaUruguay/request.pdf" "newtab" >}}Teaching evaluations{{< /staticref >}} 
 </section>
 </section>
 
