@@ -18,7 +18,7 @@ authors = ["Leopoldo Fergusson", "Natalia Garbiras-Díaz","Juana García-Duque",
 publication_types = ["6"]
 
 # Publication name and optional abbreviated version.
-publication = "Leopoldo Fergusson, Natalia Garbiras-Díaz, Juana García-Duque, and Michael Weintraub. 2022. ''Participación de exintegrantes de las Farc-EP en programas de reincorporación: Evidencia tras 3 años de atenciones.'' in "A los 5 años del acuerdo: ¿cómo va la paz en Colombia?," Laura Betancur Restrepo and Angelika Rettberg (eds). Ediciones Uniandes." 
+publication = "Leopoldo Fergusson, Natalia Garbiras-Díaz, Juana García-Duque, and Michael Weintraub. 2022. ''Participación de exintegrantes de las Farc-EP en programas de reincorporación: Evidencia tras 3 años de atenciones.'' in ''A los 5 años del acuerdo: ¿cómo va la paz en Colombia?,'' Laura Betancur Restrepo and Angelika Rettberg (eds). Ediciones Uniandes." 
 publication_short = "in *"A los 5 años del acuerdo: ¿cómo va la paz en Colombia?*," Laura Betancur Restrepo and Angelika Rettberg (eds). Ediciones Uniandes."
 
 # Abstract and optional shortened version.
