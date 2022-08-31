@@ -15,7 +15,7 @@ authors = ["Natalia Garbiras-Díaz"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["2"]
+publication_types = ["6"]
 
 # Publication name and optional abbreviated version.
 publication = "*Peace Review* 30(1), 120-123"
