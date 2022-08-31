@@ -65,14 +65,23 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
 <section>
+
+<h2>Lecturer</h2> 
+
+</section>
+
+<section>
+
+<h2>Graduate Student Instructor</h2> 
+<section>
+<h3>University of California, Berkeley</h3>  {{< staticref "files/Student_evals/UCBerkeley/Teaching_effectiveness_all_NGD.pdf" "newtab" >}}Download{{< /staticref >}} <br/>
 <p>
-<h2>University of California, Berkeley<\h2>  {{< staticref "files/Student_evals/UCBerkeley/Teaching_effectiveness_all_NGD.pdf" "newtab" >}}Download{{< /staticref >}} <br/>
-<br/>
 **PS 231B: Quantitative Analysis in Political Research** <br/>
 &nbsp; &nbsp; Graduate-level course, UC Berkeley, Spring 2017 <br/>
-&nbsp; &nbsp; Graduate Student Instructor for Professor Thad Dunning <br/>
-
+&nbsp; &nbsp; Graduate Student Instructor for Professor Thad Dunning 
+<br/>
 **PS 3: Introduction to Empirical Analysis and Quantitative Methods** <br/>
 &nbsp; &nbsp; Undergraduate-level course, UC Berkeley, Fall 2016 <br/>
 &nbsp; &nbsp; Graduate Student Instructor (GSI) and head GSI for Professor Laura Stoker
@@ -84,16 +93,17 @@ subtitle = ""
 **ECON 110: Game Theory in the Social Sciences** <br/>
 &nbsp; &nbsp; Undergraduate-level course, UC Berkeley, Fall 2015 <br/>
 &nbsp; &nbsp; Graduate Student Instructor for Professor Robert Powell 
-
 <br/>
 </p>
+
+</section>  
 </section>
 
-  
-*Other*
+<section>
+<h2>Other</h3>
 <br/>
-
-**Teaching Assistant for the EGAP Learning Days** <br/>
+<section>
+<h3>Teaching Assistant for the EGAP Learning Days</h3> <br/>
 &nbsp; &nbsp; [Workshop 2](https://egap.org/project/learning-days-2-santiago/) in Santiago, Chile May 2016 <br/>
 <br/>
 **Instructor for the EGAP Learning Days** <br/>
@@ -105,3 +115,6 @@ subtitle = ""
 &nbsp; &nbsp; Methodology Workshop (undergraduate) with Juan Carlos Rodríguez-Raga (Fall 2012) <br/>
 &nbsp; &nbsp; Game Theory (undergraduate) with Oskar Nupia (Spring 2011) <br/>
 &nbsp; &nbsp; Fundamentals of Methodology (undergraduate) with Miguel García-Sánchez (Spring 2011)
+  
+</section>
+  </section>
