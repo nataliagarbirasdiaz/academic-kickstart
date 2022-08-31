@@ -68,7 +68,7 @@ subtitle = ""
 
 <section>
 
-<h3>Lecturer</h3> 
+<h3>- Lecturer</h3> 
 <section>
 <h4>European University Institute, Florence, Italy</h4> 
 <p>  
@@ -95,7 +95,7 @@ subtitle = ""
 </section>
 
 <section>
-<h3>Graduate Student Instructor (GSI)</h3> 
+<h3>- Graduate Student Instructor (GSI)</h3> 
 <section>
 <h4>University of California, Berkeley</h4>  
 <p>
@@ -105,14 +105,13 @@ subtitle = ""
   <li><em>PS 2: Introduction to Comparative Politics</em>. Instructor: Steve M. Fish. Undergraduate-level course. Spring 2016 </li>
   <li><em>ECON 110: Game Theory in the Social Sciences</em>. Instructor: Robert Powell. Undergraduate-level course, Fall 2015 </li>
 </ul>
-<br/>
 {{< staticref "files/Student_evals/UCBerkeley/Teaching_effectiveness_all_NGD.pdf" "newtab" >}}<small>[Teaching evaluations for all courses]</small>{{< /staticref >}}   
 </p>
 </section>  
 </section>
 
 <section>
-<h3>Other</h3>
+<h3>- Other</h3>
 <section>
 <h4>Teaching Assistant for the EGAP Learning Days</h4> 
 <p>
