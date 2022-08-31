@@ -79,7 +79,8 @@ How does corruption salience influence the entry of political outsiders? While r
 * Presented at the 2022 Berkeley-Stanford Latin America Working Group, and the 2022 EPSA Annual Meeting
   
 </details>
-
+<br/>
+  
 <details>
 <summary> <strong strong style="color:royalblue"> Does compulsory voting breed anti-establishment voting? Evidence from Brazilian presidential elections </strong>  <br/>
 Natalia Garbiras-Díaz <br/>
@@ -92,20 +93,6 @@ Public opinion surveys show rising levels of distrust in parties and anti-elite 
 </details>
 <br/>
   
-<details>
-<summary> <strong strong style="color:royalblue"> The effects of citizens' anti-establishment sentiments on political preferences </strong>  <br/>
-Loreto Cox and Natalia Garbiras-Díaz <br/>
-</summary>
-<br/>
-The rise of anti-establishment sentiments among citizens is a feature of our times, often boosting outsider candidates and increasing the risks of populism around the world. Recent research has examined the rise of anti-establishment parties and candidates; yet, fewer studies have focused on anti-establishment citizens. Our study has a twofold objective. First, to provide causal evidence of the effects of increased anti-establishment sentiment. Second, to investigate how citizens trade off anti-establishment preferences with other preferences, such as ideology, political identities, and democratic values. To this end, we conducted a series of survey experiments around the presidential elections in Colombia. By shifting focus to the demand side, we advance our understanding of the electoral and democratic consequences of growing anti-establishment sentiment among citizens.
-  
-* Presented at the 2022 EPSA Annual Meeting
-* To be presented at the VI Latin American Political Methods Meeting 
-  
-</details>  
-
-<br/>  
-
 <details>
 <summary> <strong strong style="color:royalblue"> The effects of citizens' anti-establishment sentiments on political preferences </strong>  <br/>
 Loreto Cox and Natalia Garbiras-Díaz <br/>
