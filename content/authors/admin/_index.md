@@ -14,8 +14,8 @@ role: Max Weber Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: European University Institute </b>
-  <body><p> <small><strong>Photo credits:</strong> Santiago Iregui.</small></p></body>"
+- name: European University Institute 
+  url: ""
   
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -85,3 +85,6 @@ My main research interests are in comparative politics and the political economy
 I hold an M.A. in Economics from the University of Los Andes (Colombia). Before coming to Berkeley, I worked at the World Bank, the Observatory of Democracy, and Colombia's National Planning Department.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "files/CV_NataliaGarbirasDiaz.pdf" "newtab" >}}CV{{< /staticref >}}.
+
+</b>
+  <body><p> <small><strong>Photo credits:</strong> Santiago Iregui.</small></p></body>"
