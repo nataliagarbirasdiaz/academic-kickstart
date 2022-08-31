@@ -19,7 +19,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "Garbiras-Díaz, Natalia, and Mateo Montenegro. 2022. ''All Eyes on Them: A Field Experiment on Citizen Oversight and Electoral Integrity.'' American Economic Review, 112 (8): 2631-68."
-publication_short = "*American Economic Review*"
+publication_short = "*American Economic Review*, 112 (8): 2631-68"
 
 # Abstract and optional shortened version.
 abstract = "Can Information and Communication Technologies help citizens monitor their elections? We analyze a large-scale field experiment designed to answer this question in Colombia. We leveraged Facebook advertisements sent to over 4 million potential voters to encourage citizen reporting of electoral irregularities. We also cross-randomized whether candidates were informed about the campaign in a subset of municipalities. Total reports, and evidence-backed ones, experienced a large increase. Across a wide array of measures, electoral irregularities decreased. Finally, the reporting campaign reduced the vote share of candidates dependent on irregularities. This light-touch intervention is more cost-effective than monitoring efforts traditionally used by policymakers."
