@@ -67,10 +67,60 @@ subtitle = ""
 +++
 
 <section>
-<h1>Anti-establishment politics</h1>
-             
- 
-<p>
+<h3>Outsiders and Anti-establishment Politics</h3> <p>
+
+<details>
+<summary> <strong strong style="color:royalblue"> Corruption and the Rise of Political Outsiders: Evidence from local elections and audits in Brazil </strong>  <br/>
+</summary>
+<br/>
+How does corruption salience influence the entry of political outsiders? While revelations about corruption are known to influence citizens’ votes, it is unclear whether outsiders take advantage of new opportunities provided by corruption scandals to contest elections. I argue that corruption is a valence issue that allows outsider candidates to draw support from disaffected voters across the ideological spectrum. Using manifestos registered by over forty-nine thousand mayoral candidates in Brazil who ran for election between 2012 and 2020, I construct a novel measure of candidates' use of anti-corruption rhetoric and show that outsider candidates are more likely to resort to this valence appeal. I then exploit revelations of corruption in Brazilian mayoral accounts, using random annual audits conducted by the federal government, to test whether outsider candidates are more likely to take advantage of changes in the salience of corruption. Results indicate that municipalities exposed to such shocks experienced a greater entry of outsider candidates. This paper shows that changes in corruption salience can help overcome barriers to entry for outsider candidates, thereby providing motivation for future research as to the downstream consequences of these shocks, including on democratic backsliding.
+  
+* Presented at the 2022 Berkeley-Stanford Latin America Working Group, and the 2022 EPSA Annual Meeting
+  
+</details>
+
+<details>
+<summary> <strong strong style="color:royalblue"> Does compulsory voting breed anti-establishment voting? Evidence from Brazilian presidential elections </strong>  <br/>
+</summary>
+<br/>
+Public opinion surveys show rising levels of distrust in parties and anti-elite preferences among voters worldwide. By capitalizing on this sentiment, anti-establishment candidates have increasingly won office in new and established democracies alike. Yet, certain institutional arrangements may be more conducive to the electoral success of these candidates. In this paper, I argue that compulsory voting may boost anti-establishment candidates by encouraging turnout among voters who would have otherwise abstained. At the voting booth, these voters are more likely to vote for candidates who align with their anti-establishment sentiment. I test this theory in the context of Brazil’s 2018 presidential election, leveraging age thresholds that make voting compulsory at the individual level as well as randomized variation in the proportion of compulsory voters across voting booths. I demonstrate that compulsory voting led to a sizable increase in electoral support for anti-establishment presidential candidate Jair Bolsonaro. My findings underscore how critical turnout is for the prospects of anti-establishment candidates, as well as the unexpected effect of an institution often thought to bolster the quality of democracy. 
+  
+* Presented at the 2020 APSA Annual Meeting, and the 2021 ECPR Virtual Joint Sessions of Workshops
+  
+</details>
+<br/>
+  
+<details>
+<summary> <strong strong style="color:royalblue"> The effects of citizens' anti-establishment sentiments on political preferences </strong>  <br/>
+Loreto Cox and Natalia Garbiras-Díaz <br/>
+</summary>
+<br/>
+The rise of anti-establishment sentiments among citizens is a feature of our times, often boosting outsider candidates and increasing the risks of populism around the world. Recent research has examined the rise of anti-establishment parties and candidates; yet, fewer studies have focused on anti-establishment citizens. Our study has a twofold objective. First, to provide causal evidence of the effects of increased anti-establishment sentiment. Second, to investigate how citizens trade off anti-establishment preferences with other preferences, such as ideology, political identities, and democratic values. To this end, we conducted a series of survey experiments around the presidential elections in Colombia. By shifting focus to the demand side, we advance our understanding of the electoral and democratic consequences of growing anti-establishment sentiment among citizens.
+  
+* Presented at the 2022 EPSA Annual Meeting
+* To be presented at the VI Latin American Political Methods Meeting 
+  
+</details>  
+
+<br/>  
+
+<details>
+<summary> <strong strong style="color:royalblue"> The effects of citizens' anti-establishment sentiments on political preferences </strong>  <br/>
+Loreto Cox and Natalia Garbiras-Díaz <br/>
+</summary>
+<br/>
+The rise of anti-establishment sentiments among citizens is a feature of our times, often boosting outsider candidates and increasing the risks of populism around the world. Recent research has examined the rise of anti-establishment parties and candidates; yet, fewer studies have focused on anti-establishment citizens. Our study has a twofold objective. First, to provide causal evidence of the effects of increased anti-establishment sentiment. Second, to investigate how citizens trade off anti-establishment preferences with other preferences, such as ideology, political identities, and democratic values. To this end, we conducted a series of survey experiments around the presidential elections in Colombia. By shifting focus to the demand side, we advance our understanding of the electoral and democratic consequences of growing anti-establishment sentiment among citizens.
+  
+* Presented at the 2022 EPSA Annual Meeting
+* To be presented at the VI Latin American Political Methods Meeting 
+  
+</details>
+
+</p> </section>  
+
+<section>
+<h3>Conflict and Post-conflict Studies</h3> <p>
+  
 <details>
 <summary> <strong strong style="color:royalblue"> Using Political Cues for Attitude Formation in Post-Conflict Contexts </strong> (R&R Journal of Peace Research) <br/>
 Natalia Garbiras-Díaz, Miguel García-Sánchez and Aila M. Matanock <br/>
@@ -79,26 +129,47 @@ Natalia Garbiras-Díaz, Miguel García-Sánchez and Aila M. Matanock <br/>
 Citizens often have to evaluate peace agreements by voting on referendums or the negotiating leaders or by deciding whether to cooperate with implementation. In this paper, we assess how citizens form attitudes towards the provisions emerging from settlements. Citizens seeking to survive and rebuild are evaluating complex policies in contexts that tend to be politically factionalized. We theorize that they will use cues from political elites with whom they have affinity. We test our theory using survey experiments in Colombia. We find citizens rely on political elites' cues to form their opinion on the peace agreement's provisions, with the direction depending on their affinity with these elites. These cues appear to supply easily-accessible information that respondents use over other information sources. In contrast to other work that sees peace processes as exceptional and citizens as potential stabilizing forces, our results suggest that even these high-stakes decisions are politics as usual.
   
 * [ESOC Working paper 19](https://esoc.princeton.edu/WP19)
+* Presented at the 2018 APSA Annual Meeting
   
 </details>
 
 <br/>
-</p> </section>
 
 <details>
-<summary> <strong style="color:royalblue"> The Limits of Decentralized Administrative Data Collection: Experimental Evidence from Colombia </strong> <br/>
-Natalia Garbiras-Díaz and Tara Slough <br/>
+<summary> <strong style="color:royalblue"> Prospective and retrospective approaches: conflict exposure and attitudes on the peace agreement in Colombia </strong> (R&R at International Interactions) <br/>
+Aila M. Matanock, Miguel García-Sánchez, and Natalia Garbiras-Díaz <br/>
 </summary>
 <br/>
-States collect vast amounts of data for use in policymaking and public administration. To do so, central governments frequently solicit data from the bureaucrats of decentralized government entities. Because central governments use these data in policymaking, bureaucrats in decentralized entities may face incentives to report inaccurately, limiting the quality of state data. We study these dynamics in the production of Colombia’s 2020 National Transparency Index in collaboration with the Colombian Attorney Inspector General’s office. A field experiment varied the salience of direct oversight of the reported data by this watchdog agency in direct communication to individual bureaucratic entities. Bureaucrats respond to more salient oversight by changing reporting behavior. Through an independent audit of subjects’ transparency practices, we describe how bureaucrats’ reporting behaviors vary in the actual transparency practices of their organization. We argue that the strategic dynamics inherent to decentralized data production by bureaucrats render state data an important but understudied political outcome.
+There is no clear consensus on the effect of exposure to conflict on attitudes towards peace agreements. For example, in Colombia, some suggest that exposure to FARC violence increases support for peace (Dávalos et al., 2018; Tellez, 2019); others show that attitudes towards the peace process are not strongly correlated with conflict experiences (Hazlett and Parente, 2020; Liendo and Braithwaite, 2018; Nussio et al., 2015). In this paper, we contribute to this debate. While most work assumes that those exposed to violent contexts use their past experiences with violence to form their attitudes toward peace agreements, we argue that people living in these regions form their opinions about the accords by weighing the future benefits that they will have access to after a peace agreement is signed. Using new survey data from a matched sample of municipalities in Colombia, we test the effects of past violence and being a potential beneficiary of the agreement on four sets of outcomes: general attitudes towards peace; provisions included in the accord that directly benefit former combatants; provisions that potentially benefit regular citizens; and the actual expected benefits. We find that previous experience with violence has almost no association with these attitudes; however, being a resident of a locality targeted by provisions that potentially provide peace dividends has a consistent and strong impact on these attitudes.
 
-* Presented at the 2021 APSA Annual Meeting
-
+* [Working paper](http://ssrn.com/abstract=4013416)
+  
 </details>
 
+<br/>  
+  
+<details>
+<summary> <strong style="color:royalblue"> Do Third Parties Reduce Commitment Problems After Civil War? Microfoundational Evidence from Ex-Combatants in Colombia </strong> <br/>
+Leopoldo Fergusson, Natalia Garbiras-Díaz, Juana García, Michael Weintraub and Laia Balcells
+</summary>
+<br/>
+Since the Cold War, international third parties such as the United Nations (UN) have become frequent guarantors of peace agreements. Existing studies demonstrate that third parties ameliorate credible commitment problems, in part by reducing acute security threats faced by members of former rebel groups. Yet these studies exclusively marshal evidence at the macro-level, and are therefore unable to show whether ex-combatants are truly reassured by the presence and activities of third parties, and in what ways. Using a novel phone survey of 4,435 ex-combatants from the FARC-EP, Colombia’s largest rebel group, and an embedded survey experiment, we provide the first microfoundational test of prominent third party credible commitment theories. We find no evidence that third actors: increased confidence among ex-combatants that the government would fulfill its commitment to implement the peace agreement; increased confidence that the FARC would do the same; improved perceptions of physical safety; or increased trust in institutions more generally. Put differently, we are unable to recover microfoundational evidence in favor of third party credible commitment theories. We discuss potential explanations for these null findings and the study’s relevance for debates about conflict termination, implementation of the agreements and the duration of peace.
+
+* To be presented at the 2022 ESOC Annual Meeting (scheduled)
+</details>
 
 <br/>
 
+<details>
+<summary> <strong style="color:royalblue"> Actitudes de exintegrantes de las Farc–EP frente a la reincorporación </strong> <br/>
+Ana Arjona, Leopoldo Fergusson, Natalia Garbiras-Díaz, Juana García-Duque, Tatiana Hiller, Lewis Polo and Michael Weintraub <br/>
+</summary>
+<br/>
+En agosto del 2019 se cumplieron dos años de la reincorporación de las Farc-EP. Este proceso es uno de los principales desafíos de la implementación del Acuerdo Final firmado entre el Estado colombiano y la organización guerrillera en noviembre de 2016. Los avances en materia de reincorporación garantizarán su sostenibilidad. En este documento analizamos las actitudes de los exintegrantes frente al proceso en esta primera etapa, tomando los resultados del Registro Nacional de Reincorporación (RNR), realizado entre la Agencia Nacional de Reincorporación (ARN) y el componente Farc del Consejo Nacional de Reincorporación (CNR). Tras mostrar que hay aspectos positivos en las actitudes de las personas en proceso de reincorporación, y algunos que deben mirarse con preocupación, estudiamos qué características de los exintegrantes y su entorno se asocian con mejores actitudes y condiciones para la implementación del proceso de reincorporación. Complementamos este análisis contrastando las actitudes de la población en proceso de reincorporación con las de la población civil, haciendo paralelos, en términos de los retos de política pública, para ambos grupos. La evidencia presentada sirve para canalizar esfuerzos en donde más parecen necesitarse.    
+
+* [CEDE Working Paper 2020-24](https://ideas.repec.org/p/col/000089/018247.html)
+
+</details>  
 <details>
 <summary> <strong style="color:royalblue"> Untouchable Forces: Restoring Trust in Security in Weak States? </strong> <br/>
 Aila M. Matanock and Natalia Garbiras-Díaz <br/>
@@ -121,6 +192,24 @@ Between 1947 and 1994, Radio Sutatenza influenced the lives of millions of Colom
 </details>
 
 <br/>
+  
+</p> </section>
+
+<section>
+<h3>Political Accountability and Development</h3> <p>
+  
+<details>
+<summary> <strong style="color:royalblue"> The Limits of Decentralized Administrative Data Collection: Experimental Evidence from Colombia </strong> <br/>
+Natalia Garbiras-Díaz and Tara Slough <br/>
+</summary>
+<br/>
+States collect vast amounts of data for use in policymaking and public administration. To do so, central governments frequently solicit data from the bureaucrats of decentralized government entities. Because central governments use these data in policymaking, bureaucrats in decentralized entities may face incentives to report inaccurately, limiting the quality of state data. We study these dynamics in the production of Colombia’s 2020 National Transparency Index in collaboration with the Colombian Attorney Inspector General’s office. A field experiment varied the salience of direct oversight of the reported data by this watchdog agency in direct communication to individual bureaucratic entities. Bureaucrats respond to more salient oversight by changing reporting behavior. Through an independent audit of subjects’ transparency practices, we describe how bureaucrats’ reporting behaviors vary in the actual transparency practices of their organization. We argue that the strategic dynamics inherent to decentralized data production by bureaucrats render state data an important but understudied political outcome.
+
+* Presented at the 2021 APSA Annual Meeting
+
+</details>
+
+<br/>
 
 <details>
 <summary> <strong style="color:royalblue"> Can the Size of the Legislature Decrease Government Efficiency? Evidence from Colombia's Councils </strong> <br/>
@@ -130,18 +219,6 @@ Mario Chacón and Natalia Garbiras-Díaz <br/>
 Can the size of the legislature affect the efficiency and quality of public administration? Recent empirical work on the economic consequences of legislative organization has focused exclusively on the relationship between legislative size and fiscal spending. We expand the scope of this literature by exploring the impact of bigger legislative bodies on the efficiency of public service provision. We use a constitutional rule which creates a discontinuous relationship between population and size of elected councils in Colombia to estimate the effect of legislature size on the efficiency of local public goods. Theoretically a bigger councils should increase the checks and accountability on the local executive, and thus leading to higher and better quality public goods provision. Yet we find no systematic evidence for such positive mechanism. Moreover, we find preliminary negative and signifficant effects on fiscal and administrative efficiency, particularly in small cities. Our results indicate a more nuanced relationship between legislative size and government efficiency, and complement the theoretical literature on public overspending.
 
 * Presented at the 2017 EPSA Annual Meeting
-</details>
-
-<br/>
-
-<details>
-<summary> <strong style="color:royalblue"> Do Third Parties Reduce Commitment Problems After Civil War? Microfoundational Evidence from Ex-Combatants in Colombia </strong> <br/>
-Leopoldo Fergusson, Natalia Garbiras-Díaz, Juana García, Michael Weintraub and Laia Balcells
-</summary>
-<br/>
-Since the Cold War, international third parties such as the United Nations (UN) have become frequent guarantors of peace agreements. Existing studies demonstrate that third parties ameliorate credible commitment problems, in part by reducing acute security threats faced by members of former rebel groups. Yet these studies exclusively marshal evidence at the macro-level, and are therefore unable to show whether ex-combatants are truly reassured by the presence and activities of third parties, and in what ways. Using a novel phone survey of 4,435 ex-combatants from the FARC-EP, Colombia’s largest rebel group, and an embedded survey experiment, we provide the first microfoundational test of prominent third party credible commitment theories. We find no evidence that third actors: increased confidence among ex-combatants that the government would fulfill its commitment to implement the peace agreement; increased confidence that the FARC would do the same; improved perceptions of physical safety; or increased trust in institutions more generally. Put differently, we are unable to recover microfoundational evidence in favor of third party credible commitment theories. We discuss potential explanations for these null findings and the study’s relevance for debates about conflict termination, implementation of the agreements and the duration of peace.
-
-* To be presented at the 2022 ESOC Annual Meeting (scheduled)
 </details>
 
 <br/>
@@ -157,27 +234,4 @@ Despite systematic efforts by both countries and the international community to 
 
 <br/>
 
-<details>
-<summary> <strong style="color:royalblue"> Prospective and retrospective approaches: conflict exposure and attitudes on the peace agreement in Colombia </strong> (R&R at International Interactions) <br/>
-Aila M. Matanock, Miguel García-Sánchez, and Natalia Garbiras-Díaz <br/>
-</summary>
-<br/>
-There is no clear consensus on the effect of exposure to conflict on attitudes towards peace agreements. For example, in Colombia, some suggest that exposure to FARC violence increases support for peace (Dávalos et al., 2018; Tellez, 2019); others show that attitudes towards the peace process are not strongly correlated with conflict experiences (Hazlett and Parente, 2020; Liendo and Braithwaite, 2018; Nussio et al., 2015). In this paper, we contribute to this debate. While most work assumes that those exposed to violent contexts use their past experiences with violence to form their attitudes toward peace agreements, we argue that people living in these regions form their opinions about the accords by weighing the future benefits that they will have access to after a peace agreement is signed. Using new survey data from a matched sample of municipalities in Colombia, we test the effects of past violence and being a potential beneficiary of the agreement on four sets of outcomes: general attitudes towards peace; provisions included in the accord that directly benefit former combatants; provisions that potentially benefit regular citizens; and the actual expected benefits. We find that previous experience with violence has almost no association with these attitudes; however, being a resident of a locality targeted by provisions that potentially provide peace dividends has a consistent and strong impact on these attitudes.
-
-* [Working paper](http://ssrn.com/abstract=4013416)
-  
-</details>
-
-
-<br/>
-
-<details>
-<summary> <strong style="color:royalblue"> Actitudes de exintegrantes de las Farc–EP frente a la reincorporación </strong> <br/>
-Ana Arjona, Leopoldo Fergusson, Natalia Garbiras-Díaz, Juana García-Duque, Tatiana Hiller, Lewis Polo and Michael Weintraub <br/>
-</summary>
-<br/>
-En agosto del 2019 se cumplieron dos años de la reincorporación de las Farc-EP. Este proceso es uno de los principales desafíos de la implementación del Acuerdo Final firmado entre el Estado colombiano y la organización guerrillera en noviembre de 2016. Los avances en materia de reincorporación garantizarán su sostenibilidad. En este documento analizamos las actitudes de los exintegrantes frente al proceso en esta primera etapa, tomando los resultados del Registro Nacional de Reincorporación (RNR), realizado entre la Agencia Nacional de Reincorporación (ARN) y el componente Farc del Consejo Nacional de Reincorporación (CNR). Tras mostrar que hay aspectos positivos en las actitudes de las personas en proceso de reincorporación, y algunos que deben mirarse con preocupación, estudiamos qué características de los exintegrantes y su entorno se asocian con mejores actitudes y condiciones para la implementación del proceso de reincorporación. Complementamos este análisis contrastando las actitudes de la población en proceso de reincorporación con las de la población civil, haciendo paralelos, en términos de los retos de política pública, para ambos grupos. La evidencia presentada sirve para canalizar esfuerzos en donde más parecen necesitarse.    
-
-* [CEDE Working Paper 2020-24](https://ideas.repec.org/p/col/000089/018247.html)
-
-</details>
+</p> </section>
