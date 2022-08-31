@@ -1,6 +1,6 @@
 +++
 title = "Participación de exintegrantes de las Farc-EP en programas de reincorporación: Evidencia tras 3 años de atenciones"
-date = "2022-12-31"
+date = "2022-08-31"
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
