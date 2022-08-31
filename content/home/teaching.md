@@ -68,7 +68,7 @@ subtitle = ""
 
 <section>
 
-<h3>- Lecturer</h3> 
+<h3>- Instructor</h3> 
 <section>
 <h4>European University Institute, Florence, Italy</h4> 
 <p>  
@@ -84,7 +84,7 @@ subtitle = ""
 </li>
 </ul>
 </p>
-<h4>Universidad Católica de Uruguay, Montevideo, Uruguya</h4> 
+<h4>Universidad Católica de Uruguay, Montevideo, Uruguay</h4> 
 <p>
 <ul>
   <li><em>Experimentos de Campo en las Ciencias Sociales: Teoría y Práctica</em> (course taught in Spanish). Cross-level course. Summer, 2021 <br/>
