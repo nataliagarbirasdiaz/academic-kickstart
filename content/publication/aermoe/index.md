@@ -63,6 +63,8 @@ url_source = ""
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 url_custom = [{name = "VoxDev", url = "https://voxdev.org/topic/institutions-political-economy/citizens-can-effectively-monitor-integrity-their-elections-evidence-colombia"}]
 
+links = [{name = "VoxDev", url = "https://voxdev.org/topic/institutions-political-economy/citizens-can-effectively-monitor-integrity-their-elections-evidence-colombia"}]
+
 # Digital Object Identifier (DOI)
 doi = "https://doi.org/10.1257/aer.20210778"
 
