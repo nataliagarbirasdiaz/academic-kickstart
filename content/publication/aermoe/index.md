@@ -61,7 +61,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
- url_custom = [{name = "Ungated", url = "https://www.dropbox.com/s/gb8mzx4w2eth7mv/All_eyes_on_them_MOE___Colombia_Field_Experiment.pdf?dl=0"}]
+url_custom = [{name = "VoxDev", url = "https://voxdev.org/topic/institutions-political-economy/citizens-can-effectively-monitor-integrity-their-elections-evidence-colombia"}]
 
 # Digital Object Identifier (DOI)
 doi = "https://doi.org/10.1257/aer.20210778"
