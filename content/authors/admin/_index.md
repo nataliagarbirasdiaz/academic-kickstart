@@ -78,7 +78,7 @@ email: "natalia.garbirasdiaz@eui.eu"
 # - Researchers
 # - Visitors
 ---
-I am a [Max Weber Fellow](https://www.eui.eu/people?id=natalia-garbiras-diaz) at the European University Institute. I received my PhD in Political Science from the University of California, Berkeley, where I am currently a Research Associate at the [Center on the Politics of Development](https://cpd.berkeley.edu/people/research-associates/).
+I am a [Max Weber Fellow](https://www.eui.eu/people?id=natalia-garbiras-diaz) at the European University Institute. I received my Ph.D. in Political Science from the University of California, Berkeley, where I am currently a Research Associate at the [Center on the Politics of Development](https://cpd.berkeley.edu/people/research-associates/). Starting in the fall of 2023, I will be an Assistant Professor at Harvard Business School's Business, Government and the International Economy (BGIE) unit.
 
 My main research interests are in comparative politics and the political economy of development, focusing on corruption, public goods provision, and accountability in Latin America. I also study the formation of citizen and ex-combatant attitudes and their role in stabilizing peace in post-conflict settings. In my dissertation, I explored the information and institutional environments that pave the way for outsider candidates' rise and success.
 
