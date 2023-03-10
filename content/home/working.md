@@ -111,20 +111,6 @@ The rise of anti-establishment sentiments among citizens is a feature of our tim
 <h3>Conflict and Post-conflict Studies</h3> <p>
   
 <details>
-<summary> <strong strong style="color:royalblue"> Using Political Cues for Attitude Formation in Post-Conflict Contexts </strong> (R&R Journal of Peace Research) <br/>
-Natalia Garbiras-Díaz, Miguel García-Sánchez and Aila M. Matanock <br/>
-</summary>
-<br/>
-Citizens often have to evaluate peace agreements by voting on referendums or the negotiating leaders or by deciding whether to cooperate with implementation. In this paper, we assess how citizens form attitudes towards the provisions emerging from settlements. Citizens seeking to survive and rebuild are evaluating complex policies in contexts that tend to be politically factionalized. We theorize that they will use cues from political elites with whom they have affinity. We test our theory using survey experiments in Colombia. We find citizens rely on political elites' cues to form their opinion on the peace agreement's provisions, with the direction depending on their affinity with these elites. These cues appear to supply easily-accessible information that respondents use over other information sources. In contrast to other work that sees peace processes as exceptional and citizens as potential stabilizing forces, our results suggest that even these high-stakes decisions are politics as usual.
-  
-* [ESOC Working paper 19](https://esoc.princeton.edu/WP19)
-* Presented at the 2018 APSA Annual Meeting
-  
-</details>
-
-<br/>
-
-<details>
 <summary> <strong style="color:royalblue"> Prospective and retrospective approaches: conflict exposure and attitudes on the peace agreement in Colombia </strong> (R&R at International Interactions) <br/>
 Aila M. Matanock, Miguel García-Sánchez, and Natalia Garbiras-Díaz <br/>
 </summary>
