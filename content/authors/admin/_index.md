@@ -84,6 +84,8 @@ My main research interests are in comparative politics and the political economy
 
 I hold an M.A. in Economics from the University of Los Andes (Colombia). Before coming to Berkeley, I worked at the World Bank, the Observatory of Democracy, and Colombia's National Planning Department.
 
+Together with [Miriam Golden](https://www.miriamgolden.com) and Daniel Urquijo, I co-organize the [Occasional Political Economy Seminar Series](https://github.com/nataliagarbirasdiaz/OPESS) at the EUI.
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "files/CV_NataliaGarbirasDiaz.pdf" "newtab" >}}CV{{< /staticref >}}.
 
 </b>
