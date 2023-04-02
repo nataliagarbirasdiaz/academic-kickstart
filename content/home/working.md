@@ -94,14 +94,14 @@ Public opinion surveys show rising levels of distrust in parties and anti-elite 
 <br/>
   
 <details>
-<summary> <strong strong style="color:royalblue"> The effects of citizens' anti-establishment sentiments on political preferences </strong>  <br/>
+<summary> <strong strong style="color:royalblue"> The nature, sources, and consequences of citizens’ anti-establishment sentiments: Evidence from two Latin American countries </strong>  <br/>
 Loreto Cox and Natalia Garbiras-Díaz <br/>
 </summary>
 <br/>
-The rise of anti-establishment sentiments among citizens is a feature of our times, often boosting outsider candidates and increasing the risks of populism around the world. Recent research has examined the rise of anti-establishment parties and candidates; yet, fewer studies have focused on anti-establishment citizens. Our study has a twofold objective. First, to provide causal evidence of the effects of increased anti-establishment sentiment. Second, to investigate how citizens trade off anti-establishment preferences with other preferences, such as ideology, political identities, and democratic values. To this end, we conducted a series of survey experiments around the presidential elections in Colombia. By shifting focus to the demand side, we advance our understanding of the electoral and democratic consequences of growing anti-establishment sentiment among citizens.
+While recent studies examine anti-establishment parties and candidates, fewer focus on citizens' anti-establishment sentiments, which we define as an intense and angry animosity toward political elites and distrust of political parties. What are the sources of these sentiments? What are their causal effects on political attitudes and voting behavior? We answer these questions using panel survey data from Colombia and Peru ahead of the 2022 elections. Specifically, we combine priming and conjoint experiments with text analysis of open-ended questions. We find that anti-establishment sentiments are widespread, span the ideological spectrum, and stem mainly from perceptions of corruption and unfulfilled promises. They do not make citizens less democratic but reduce trust in institutions. We also find that candidates who use anti-establishment appeals gain an electoral advantage, which then weakens citizens' punishment of anti-democratic candidates. In Colombia, where voting is voluntary, we also find mobilizing effects of anti-establishment sentiments. Overall, we advance the understanding of citizens' disillusionment with politicians, a pervasive global phenomenon.
   
-* Presented at the 2022 EPSA Annual Meeting
-* To be presented at the VI Latin American Political Methods Meeting 
+* Presented at the 2022 EPSA Annual Meeting and the VI Latin American Political Methods Meeting 
+* [Working paper](https://www.dropbox.com/s/wskbkritub91bds/Cox_Garbiras_Anti_establishment_preferences_Spring23.pdf?dl=0)
   
 </details>
 
@@ -130,7 +130,7 @@ Leopoldo Fergusson, Natalia Garbiras-Díaz, Juana García, Michael Weintraub and
 <br/>
 Since the Cold War, international third parties such as the United Nations (UN) have become frequent guarantors of peace agreements. Existing studies demonstrate that third parties ameliorate credible commitment problems, in part by reducing acute security threats faced by members of former rebel groups. Yet these studies exclusively marshal evidence at the macro-level, and are therefore unable to show whether ex-combatants are truly reassured by the presence and activities of third parties, and in what ways. Using a novel phone survey of 4,435 ex-combatants from the FARC-EP, Colombia’s largest rebel group, and an embedded survey experiment, we provide the first microfoundational test of prominent third party credible commitment theories. We find no evidence that third actors: increased confidence among ex-combatants that the government would fulfill its commitment to implement the peace agreement; increased confidence that the FARC would do the same; improved perceptions of physical safety; or increased trust in institutions more generally. Put differently, we are unable to recover microfoundational evidence in favor of third party credible commitment theories. We discuss potential explanations for these null findings and the study’s relevance for debates about conflict termination, implementation of the agreements and the duration of peace.
 
-* To be presented at the 2022 ESOC Annual Meeting (scheduled)
+* Presented at the 2022 ESOC Annual Meeting
 </details>
 
 <br/>
