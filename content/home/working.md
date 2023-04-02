@@ -101,7 +101,7 @@ Loreto Cox and Natalia Garbiras-Díaz <br/>
 While recent studies examine anti-establishment parties and candidates, fewer focus on citizens' anti-establishment sentiments, which we define as an intense and angry animosity toward political elites and distrust of political parties. What are the sources of these sentiments? What are their causal effects on political attitudes and voting behavior? We answer these questions using panel survey data from Colombia and Peru ahead of the 2022 elections. Specifically, we combine priming and conjoint experiments with text analysis of open-ended questions. We find that anti-establishment sentiments are widespread, span the ideological spectrum, and stem mainly from perceptions of corruption and unfulfilled promises. They do not make citizens less democratic but reduce trust in institutions. We also find that candidates who use anti-establishment appeals gain an electoral advantage, which then weakens citizens' punishment of anti-democratic candidates. In Colombia, where voting is voluntary, we also find mobilizing effects of anti-establishment sentiments. Overall, we advance the understanding of citizens' disillusionment with politicians, a pervasive global phenomenon.
   
 * Presented at the 2022 EPSA Annual Meeting and the VI Latin American Political Methods Meeting 
-* [Working paper](https://www.dropbox.com/s/wskbkritub91bds/Cox_Garbiras_Anti_establishment_preferences_Spring23.pdf?dl=0)
+* [Working paper](https://www.dropbox.com/scl/fo/6vrk9us5l8ztkjoaeqgrh/h?dl=0&rlkey=c7ir3swl9vhz2bo0g96fyumgj)
   
 </details>
 
