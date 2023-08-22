@@ -53,7 +53,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:natalia.garbirasdiaz@eui.eu"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:n.garbirasdiaz@hbs.edu"  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/NGarbirasDiaz
@@ -70,7 +70,7 @@ social:
 #   link: files/CV_NataliaGarbirasDiaz.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "natalia.garbirasdiaz@eui.eu"
+email: "n.garbirasdiaz@hbs.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -78,11 +78,11 @@ email: "natalia.garbirasdiaz@eui.eu"
 # - Researchers
 # - Visitors
 ---
-I am an Assistant Professor at Harvard Business School's Business, Government and the International Economy (BGIE) unit. Before start at HBS, I was a [Max Weber Fellow](https://www.eui.eu/people?id=natalia-garbiras-diaz) at the European University Institute. I received my Ph.D. in Political Science from the University of California, Berkeley, where I am currently a Research Associate at the [Center on the Politics of Development](https://cpd.berkeley.edu/people/research-associates/). 
+I am an Assistant Professor in the Business, Government and the International Economy (BGIE) unit at Harvard Business School. Prior to joining HBS, I was a [Max Weber Fellow](https://www.eui.eu/people?id=natalia-garbiras-diaz) at the European University Institute. I received my Ph.D. in Political Science from the University of California, Berkeley, where I am currently a Research Associate at the [Center on the Politics of Development](https://cpd.berkeley.edu/people/research-associates/). 
 
-My main research interests are in comparative politics and the political economy of development, focusing on corruption, public goods provision, and accountability in Latin America. I also study the formation of citizen and ex-combatant attitudes and their role in stabilizing peace in post-conflict settings. In my dissertation, I explored the information and institutional environments that pave the way for outsider candidates' rise and success.
+My main research interests are in comparative politics and the political economy of development, with a focus on corruption, public goods provision, and accountability in Latin America. I also study the formation of citizen and ex-combatant attitudes and their role in stabilizing peace in post-conflict settings. In my dissertation, I examined the informational and institutional environments that pave the way for the rise and success of outsider candidates.
 
-I hold an M.A. in Economics from the University of Los Andes (Colombia). Before my PhD, I worked at the World Bank, the Observatory of Democracy, and Colombia's National Planning Department.
+I hold an M.A. in Economics from the University of Los Andes (Colombia). Prior to my Ph.D., I worked at the World Bank, the Democracy Observatory, and the Colombian National Planning Department.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "files/CV_NataliaGarbirasDiaz.pdf" "newtab" >}}CV{{< /staticref >}}.
 
