@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Max Weber Fellow
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: European University Institute 
-  url: ""
+- name: Harvard Business School
+  url: "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1457929"
   
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -78,13 +78,11 @@ email: "natalia.garbirasdiaz@eui.eu"
 # - Researchers
 # - Visitors
 ---
-I am a [Max Weber Fellow](https://www.eui.eu/people?id=natalia-garbiras-diaz) at the European University Institute. I received my Ph.D. in Political Science from the University of California, Berkeley, where I am currently a Research Associate at the [Center on the Politics of Development](https://cpd.berkeley.edu/people/research-associates/). Starting in the fall of 2023, I will be an Assistant Professor at Harvard Business School's Business, Government and the International Economy (BGIE) unit.
+I am an Assistant Professor at Harvard Business School's Business, Government and the International Economy (BGIE) unit. Before start at HBS, I was a [Max Weber Fellow](https://www.eui.eu/people?id=natalia-garbiras-diaz) at the European University Institute. I received my Ph.D. in Political Science from the University of California, Berkeley, where I am currently a Research Associate at the [Center on the Politics of Development](https://cpd.berkeley.edu/people/research-associates/). 
 
 My main research interests are in comparative politics and the political economy of development, focusing on corruption, public goods provision, and accountability in Latin America. I also study the formation of citizen and ex-combatant attitudes and their role in stabilizing peace in post-conflict settings. In my dissertation, I explored the information and institutional environments that pave the way for outsider candidates' rise and success.
 
-I hold an M.A. in Economics from the University of Los Andes (Colombia). Before coming to Berkeley, I worked at the World Bank, the Observatory of Democracy, and Colombia's National Planning Department.
-
-Together with [Miriam Golden](https://www.miriamgolden.com) and Daniel Urquijo, I co-organize the [Occasional Political Economy Seminar Series](https://github.com/nataliagarbirasdiaz/OPESS) at the EUI.
+I hold an M.A. in Economics from the University of Los Andes (Colombia). Before my PhD, I worked at the World Bank, the Observatory of Democracy, and Colombia's National Planning Department.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "files/CV_NataliaGarbirasDiaz.pdf" "newtab" >}}CV{{< /staticref >}}.
 
