@@ -70,7 +70,7 @@ social:
 #   link: files/CV_NataliaGarbirasDiaz.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "n.garbirasdiaz@hbs.edu"
+email: "ngarbirasdiaz@hbs.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
