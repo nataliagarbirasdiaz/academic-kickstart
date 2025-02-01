@@ -86,5 +86,3 @@ I hold an M.A. in Economics from the University of Los Andes (Colombia). Prior t
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "files/CV_NataliaGarbirasDiaz.pdf" "newtab" >}}CV{{< /staticref >}}.
 
-</b>
-  <body><p> <small><strong>Photo credits:</strong> Santiago Iregui.</small></p></body>
