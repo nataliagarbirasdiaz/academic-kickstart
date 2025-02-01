@@ -94,7 +94,7 @@ email = "ngarbirasdiaz [at] hbs [dot] edu"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "280 Morgan Hall", city = "Boston", region = "MA", postcode = "02163", country = "United States", country_code = "US"}
+address = {street = "292 Morgan Hall", city = "Boston", region = "MA", postcode = "02163", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
