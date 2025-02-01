@@ -67,28 +67,32 @@ subtitle = ""
 +++
 
 <section>
-
+<h3>- HBS</h3> 
+<section>
+<h4>Required MBA Curriculum</h4> 
+<p>  
+<ul>
+  <li><em>Business, Government, and the International Economy</em>. Spring 2024, Spring 2025</li>
+</ul> 
+</p>
 <h3>- Instructor</h3> 
 <section>
 <h4>European University Institute, Florence, Italy</h4> 
 <p>  
 <ul>
-  <li><em>Field Experiments Part I</em>, with <a href="[http://www.thaddunning.com/](https://www.miriamgolden.com/)"> Miriam Golden</a>. Graduate-level workshop. Spring 2022</li>
+  <li><em>Field Experiments Part I</em>, with <a href="https://www.miriamgolden.com/)"> Miriam Golden</a>. Graduate-level workshop. Spring 2022</li>
 </ul> 
 </p>
 <h4>Universidad de Los Andes, Bogota, Colombia</h4> 
 <p>  
 <ul>
-  <li> <em>Clientelismo y Corrupción</em> (course taught in Spanish). Undergraduate-level course. Spring, 2021 <br/> 
-  {{< staticref "files/Student_evals/Uniandes/REPORTE PRINCIPAL-NATALIA GARBIRAS DIAZ-202110.pdf" "newtab" >}}<small>[Teaching evaluations]</small>{{< /staticref >}} 
-</li>
+  <li> <em>Clientelismo y Corrupción</em> (course taught in Spanish). Undergraduate-level course. Spring, 2021</li>
 </ul>
 </p>
 <h4>Universidad Católica de Uruguay, Montevideo, Uruguay</h4> 
 <p>
 <ul>
-  <li><em>Experimentos de Campo en las Ciencias Sociales: Teoría y Práctica</em> (course taught in Spanish). Cross-level course. Summer, 2021 <br/>
-  {{< staticref "files/Student_evals/CatolicaUruguay/request.pdf" "newtab" >}}<small>[Teaching evaluations]</small>{{< /staticref >}} </li>
+  <li><em>Experimentos de Campo en las Ciencias Sociales: Teoría y Práctica</em> (course taught in Spanish). Cross-level course. Summer, 2021 </li>
 </ul>  
 </p>
 </section>
@@ -104,8 +108,7 @@ subtitle = ""
   <li><em>PS 3: Introduction to Empirical Analysis and Quantitative Methods</em> (head GSI). Instructor: Laura Stoker. Undergraduate-level course. Fall 2016 </li>
   <li><em>PS 2: Introduction to Comparative Politics</em>. Instructor: Steve M. Fish. Undergraduate-level course. Spring 2016 </li>
   <li><em>ECON 110: Game Theory in the Social Sciences</em>. Instructor: Robert Powell. Undergraduate-level course, Fall 2015 </li>
-</ul>
-{{< staticref "files/Student_evals/UCBerkeley/Teaching_effectiveness_all_NGD.pdf" "newtab" >}}<small>[Teaching evaluations for all courses]</small>{{< /staticref >}}   
+</ul>  
 </p>
 </section>  
 </section>
