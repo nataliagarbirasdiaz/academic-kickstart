@@ -173,7 +173,17 @@ Between 1947 and 1994, Radio Sutatenza influenced the lives of millions of Colom
 
 <section>
 <h3>Political Accountability and Development</h3> <p>
+
+<details>
+<summary> <strong strong style="color:royalblue"> Electoral Integrity and Local Development </strong>  <br/>
+Natalia Garbiras-Díaz and Mateo Montenegro <br/>
+</summary>
+<br/>
+Does electoral integrity improve local development? Prevailing theories of democracy suggest that well-functioning elections allow citizens to select good politicians (<i>selection channel</i>) and incentivize their effort (<i>accountability channel</i>). Despite the intuitive logic of these arguments, there is limited empirical evidence supporting them. We address this gap by leveraging unique experimental variation in electoral integrity from a randomized intervention conducted during Colombia’s 2019 mayoral elections, which reduced electoral irregularities. We document four findings. First, treated municipalities experienced increased access to local public goods over the subsequent four years. Second, mayors in treated municipalities became more efficient and less wasteful, as measured by procurement outcomes and corruption-related judicial processes. Third, we develop a novel framework to quantify the contribution of the selection channel and find it plays a substantial role in the overall effect. Finally, we find that alternative explanations—such as increased citizen demand—are unlikely to account for the results. These findings underscore the developmental value of transparent elections.
   
+</details>
+<br/>
+
 <details>
 <summary> <strong style="color:royalblue"> The Limits of Decentralized Administrative Data Collection: Experimental Evidence from Colombia </strong> <br/>
 Natalia Garbiras-Díaz and Tara Slough <br/>
@@ -182,22 +192,6 @@ Natalia Garbiras-Díaz and Tara Slough <br/>
 States collect vast amounts of data for use in policymaking and public administration. To do so, central governments frequently solicit data from the bureaucrats of decentralized government entities. Because central governments use these data in policymaking, bureaucrats in decentralized entities may face incentives to report inaccurately, limiting the quality of state data. We study these dynamics in the production of Colombia’s 2020 National Transparency Index in collaboration with the Colombian Attorney Inspector General’s office. A field experiment varied the salience of direct oversight of the reported data by this watchdog agency in direct communication to individual bureaucratic entities. Bureaucrats respond to more salient oversight by changing reporting behavior. Through an independent audit of subjects’ transparency practices, we describe how bureaucrats’ reporting behaviors vary in the actual transparency practices of their organization. We argue that the strategic dynamics inherent to decentralized data production by bureaucrats render state data an important but understudied political outcome.
 
 * Presented at the 2021 APSA Annual Meeting
-
-</details>
-
-<br/>
-
-<details>
-<summary> <strong style="color:royalblue"> Can the Size of the Legislature Decrease Government Efficiency? Evidence from Colombia's Councils </strong> <br/>
-Mario Chacón and Natalia Garbiras-Díaz <br/>
-</summary>
-<br/>
-Can the size of the legislature affect the efficiency and quality of public administration? Recent empirical work on the economic consequences of legislative organization has focused exclusively on the relationship between legislative size and fiscal spending. We expand the scope of this literature by exploring the impact of bigger legislative bodies on the efficiency of public service provision. We use a constitutional rule which creates a discontinuous relationship between population and size of elected councils in Colombia to estimate the effect of legislature size on the efficiency of local public goods. Theoretically a bigger councils should increase the checks and accountability on the local executive, and thus leading to higher and better quality public goods provision. Yet we find no systematic evidence for such positive mechanism. Moreover, we find preliminary negative and signifficant effects on fiscal and administrative efficiency, particularly in small cities. Our results indicate a more nuanced relationship between legislative size and government efficiency, and complement the theoretical literature on public overspending.
-
-* Presented at the 2017 EPSA Annual Meeting
-</details>
-
-<br/>
 
 <details>
 <summary> <strong style="color:royalblue"> Social Norms and the Persistence of Corruption: Experimental evidence of individuals' attitudes and behavior related to corruption in Latin America </strong> <br/>
