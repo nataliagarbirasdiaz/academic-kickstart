@@ -89,6 +89,16 @@ Effective governance requires reliable information. Many types of administrative
 * Presented at the 2021 APSA Annual Meeting
 
 <details>
+<summary> <strong style="color:royalblue"> Accents as Capital </strong> <br/>
+Leopoldo Fergusson, Natalia Garbiras-Díaz, and Michael Weintraub <br/>
+</summary>
+<br/>
+Do accents shape social and economic interactions? We answer this question using an experiment embedded in an online survey of 6,000 Colombian adults. Respondents evaluated paired profiles whose audio introductions used either a high- or low-class accent, while income, education, and other attributes were independently randomized. We find a sizable accent premium: speakers with high-class accents are 5–16 percentage points more likely to be chosen as friends, business partners, colleagues, or bosses. The premium is significantly larger among respondents with high socioeconomic status, consistent with an in-group favoritism that can reproduce inequality. Our design allows us to disentangle the effect of accents from income and education, ruling out that inferences about these other forms of capital drive the premium. We further show that the premium vanishes for high-class foreign accents, suggesting that class cues are culturally specific and difficult for outsiders to detect. Finally, we document that respondents systematically associate high-class accents with multiple proxies of social status. Overall, our findings reveal how linguistic signals reinforce social barriers and should inform policy efforts to reduce inequality and promote social mobility.  
+
+</details>
+<br/>
+
+<details>
 <summary> <strong style="color:royalblue"> Social Norms and the Persistence of Corruption: Experimental evidence of individuals' attitudes and behavior related to corruption in Latin America </strong> <br/>
 Natalia Garbiras-Díaz <br/>
 </summary>
@@ -96,7 +106,6 @@ Natalia Garbiras-Díaz <br/>
 Despite systematic efforts by both countries and the international community to reduce its prevalence, corruption remains a pervasive phenomenon across the developing world. What explains the persistence of corruption? Furthermore, can social norms account for some of this persistence? In this paper, I study the effect of injunctive norms (the perceived moral rules that determine the approval or disapproval of social behavior) and descriptive norms (the perceived frequency of a conduct in a particular context) on individuals' behavior and attitudes towards corruption. I explore this question using a survey experiment conducted in Argentina, which isolates alternative explanations for corruption. I randomly show respondents vignettes that manipulate either the descriptive or injunctive norm. I then ask them to answer a series of questions that measure their attitudes toward bribery (e.g., the extent to which they consider bribery to be justifiable, among other questions), as well as other behavioral outcomes. While I find empirical evidence for the effect of descriptive norms on both individuals' attitudes and behavior related to corruption; I find no statistical support for the effect of injunctive norms on any of the analyzed outcomes. Taken together, results suggest that descriptive norms operate as informational devices, and that correcting misperceptions about these may serve as an antidote against corruption.  To the best of my knowledge, little work has been done to identify the causal effect of social norms, and their interactions, on corruption. In this respect, this paper makes two contributions. From a theoretical perspective, it contributes to a growing body of research on the  effect of culture on corruption, providing evidence on the causal relationship between social norms and attitudes toward bribery. From a policy perspective, it sheds light on methods to successfully design anti-corruption campaigns that reduce individuals' likelihood to engage in petty corruption.    
 
 </details>
-
 <br/>
 
 </p> </section>
@@ -116,12 +125,10 @@ Does citizens' stated commitment to democracy predict their willingness to defen
 
 <details>
 <summary> <strong strong style="color:royalblue"> Corruption and the Rise of Political Outsiders: Evidence from local elections and audits in Brazil </strong>  <br/>
-Natalia Garbiras-Díaz <br/>
+Natalia Garbiras-Díaz and Lucas Novaes <br/>
 </summary>
 <br/>
-How does corruption salience influence the entry of political outsiders? While revelations about corruption are known to influence citizens’ votes, it is unclear whether outsiders take advantage of new opportunities provided by corruption scandals to contest elections. I argue that corruption is a valence issue that allows outsider candidates to draw support from disaffected voters across the ideological spectrum. Using manifestos registered by over forty-nine thousand mayoral candidates in Brazil who ran for election between 2012 and 2020, I construct a novel measure of candidates' use of anti-corruption rhetoric and show that outsider candidates are more likely to resort to this valence appeal. I then exploit revelations of corruption in Brazilian mayoral accounts, using random annual audits conducted by the federal government, to test whether outsider candidates are more likely to take advantage of changes in the salience of corruption. Results indicate that municipalities exposed to such shocks experienced a greater entry of outsider candidates. This paper shows that changes in corruption salience can help overcome barriers to entry for outsider candidates, thereby providing motivation for future research as to the downstream consequences of these shocks, including on democratic backsliding.
-  
-* Presented at the 2022 Berkeley-Stanford Latin America Working Group, and the 2022 EPSA Annual Meeting
+In preparation.
   
 </details>
 <br/>
