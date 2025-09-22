@@ -78,7 +78,9 @@ email: "ngarbirasdiaz@hbs.edu"
 # - Researchers
 # - Visitors
 ---
-I am an Assistant Professor in the Business, Government and the International Economy (BGIE) unit at Harvard Business School. Prior to joining HBS, I was a [Max Weber Fellow](https://www.eui.eu/people?id=natalia-garbiras-diaz) at the European University Institute. I received my Ph.D. in Political Science from the University of California, Berkeley, where I am currently a Research Associate at the [Center on the Politics of Development](https://cpd.berkeley.edu/people/research-associates/). 
+I am an Assistant Professor in the Business, Government and the International Economy (BGIE) unit at [Harvard Business School](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1457929). I am also faculty affiliated with the [Bloomberg Center for Cities](https://www.bloomberg.org/program/cities/bloomberg-center-for-cities-at-harvard-university/) and the [Center for International Development](https://www.hks.harvard.edu/centers/cid) at the Harvard Kennedy School. In addition, I am an Invited Researcher at [J-PAL](https://www.povertyactionlab.org/) and a member of [EGAP](https://egap.org/).
+
+Prior to joining HBS, I was a [Max Weber Fellow](https://www.eui.eu/people?id=natalia-garbiras-diaz) at the European University Institute. I received my Ph.D. in Political Science from the University of California, Berkeley, where I am currently a Research Associate at the [Center on the Politics of Development](https://cpd.berkeley.edu/people/research-associates/).
 
 My main research interests are in comparative politics and the political economy of development, with a focus on corruption, public goods provision, and accountability in Latin America. I also study the formation of citizen and ex-combatant attitudes and their role in stabilizing peace in post-conflict settings. In my dissertation, I examined the informational and institutional environments that pave the way for the rise and success of outsider candidates.
 
