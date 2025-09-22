@@ -88,6 +88,9 @@ Effective governance requires reliable information. Many types of administrative
 
 * Presented at the 2021 APSA Annual Meeting
 
+</details>
+<br/>
+
 <details>
 <summary> <strong style="color:royalblue"> Accents as Capital </strong> <br/>
 Leopoldo Fergusson, Natalia Garbiras-Díaz, and Michael Weintraub <br/>
