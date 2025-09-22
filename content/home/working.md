@@ -67,7 +67,52 @@ subtitle = ""
 +++
 
 <section>
-<h3>Outsiders and Anti-establishment Politics</h3> <p>
+<h3>Political Accountability and Development</h3> <p>
+
+<details>
+<summary> <strong strong style="color:royalblue"> Electoral Integrity and Local Development </strong>  <br/>
+Natalia Garbiras-Díaz and Mateo Montenegro <br/>
+</summary>
+<br/>
+Does electoral integrity improve local development? Prevailing theories of democracy suggest that well-functioning elections allow citizens to select good politicians (<i>selection channel</i>) and incentivize their effort (<i>accountability channel</i>). Despite the intuitive logic of these arguments, there is limited empirical evidence supporting them. We address this gap by leveraging unique experimental variation in electoral integrity from a randomized intervention conducted during Colombia’s 2019 mayoral elections, which reduced electoral irregularities. We document four findings. First, treated municipalities experienced increased access to local public goods over the subsequent four years. Second, mayors in treated municipalities became more efficient and less wasteful, as measured by procurement outcomes and corruption-related judicial processes. Third, we develop a novel framework to quantify the contribution of the selection channel and find it plays a substantial role in the overall effect. Finally, we find that alternative explanations—such as increased citizen demand—are unlikely to account for the results. These findings underscore the developmental value of transparent elections.
+  
+</details>
+<br/>
+
+<details>
+<summary> <strong style="color:royalblue"> Government Oversight and Inter-Institutional Legibility: Evidence from Colombia </strong> (R&R at the <i>Journal of Politics</i>) <br/>
+Natalia Garbiras-Díaz and Tara Slough <br/>
+</summary>
+<br/>
+Effective governance requires reliable information. Many types of administrative data are produced from decentralized entities' reports to the central government. The use of these data for policymaking or oversight creates incentives for decentralized bureaucrats to strategically (mis)report, reducing the quality of the resultant data. We conceptualize this challenge as one of <i>inter-institutional legibility</i>, shaped by principal-agent dynamics between central and decentralized governments. We study these dynamics experimentally in the production of Colombia's National Transparency Index by partnering with a national watchdog agency to assess the effect of increasing the salience of oversight on decentralized entities' reporting behavior. More salient oversight changes reported scores and may marginally increase reporting rates. Comparing self-reports to an independent audit, we show that selection, distortion, and noise in reports limit the legibility of these entities to the central government. Our findings underscore the challenge of administrative data collection and the use of these data. 
+
+* Presented at the 2021 APSA Annual Meeting
+
+<details>
+<summary> <strong style="color:royalblue"> Social Norms and the Persistence of Corruption: Experimental evidence of individuals' attitudes and behavior related to corruption in Latin America </strong> <br/>
+Natalia Garbiras-Díaz <br/>
+</summary>
+<br/>
+Despite systematic efforts by both countries and the international community to reduce its prevalence, corruption remains a pervasive phenomenon across the developing world. What explains the persistence of corruption? Furthermore, can social norms account for some of this persistence? In this paper, I study the effect of injunctive norms (the perceived moral rules that determine the approval or disapproval of social behavior) and descriptive norms (the perceived frequency of a conduct in a particular context) on individuals' behavior and attitudes towards corruption. I explore this question using a survey experiment conducted in Argentina, which isolates alternative explanations for corruption. I randomly show respondents vignettes that manipulate either the descriptive or injunctive norm. I then ask them to answer a series of questions that measure their attitudes toward bribery (e.g., the extent to which they consider bribery to be justifiable, among other questions), as well as other behavioral outcomes. While I find empirical evidence for the effect of descriptive norms on both individuals' attitudes and behavior related to corruption; I find no statistical support for the effect of injunctive norms on any of the analyzed outcomes. Taken together, results suggest that descriptive norms operate as informational devices, and that correcting misperceptions about these may serve as an antidote against corruption.  To the best of my knowledge, little work has been done to identify the causal effect of social norms, and their interactions, on corruption. In this respect, this paper makes two contributions. From a theoretical perspective, it contributes to a growing body of research on the  effect of culture on corruption, providing evidence on the causal relationship between social norms and attitudes toward bribery. From a policy perspective, it sheds light on methods to successfully design anti-corruption campaigns that reduce individuals' likelihood to engage in petty corruption.    
+
+</details>
+
+<br/>
+
+</p> </section>
+
+<section>
+<h3>Democracy, Outsiders and Anti-establishment Politics</h3> <p>
+
+<details>
+<summary> <strong strong style="color:royalblue"> Citizens' Commitment to Democracy: Easier Said Than Done? </strong>  <br/>
+Natalia Garbiras-Díaz, Loreto Cox and Hernán Carvajal <br/>
+</summary>
+<br/>
+Does citizens' stated commitment to democracy predict their willingness to defend it? We address this question by leveraging a unique setup tracking democratic attitudes surrounding Peru's 2022 self-coup. Our analysis combines an original two-wave pre-coup panel measuring explicit support for democracy through direct questions and implicit support through votes for hypothetical undemocratic candidates in a conjoint experiment with a third wave capturing responses to Pedro Castillo's failed self-coup. We show that condemnation of the coup was not unanimous, and Castillo voters were more forgiving, adjusting their democratic standards and ceasing to view shutting down Congress as undemocratic. Crucially, stated commitment matters: explicit survey responses strongly predict condemnation of the coup, as strongly as having voted for Castillo, while the conjoint measure predicts it only weakly. Robustness analyses using Colombian data provide external validity. Our findings provide methodological and substantive insights into how to anticipate citizens' democratic commitments under stress.
+  
+</details>
+<br/>
 
 <details>
 <summary> <strong strong style="color:royalblue"> Corruption and the Rise of Political Outsiders: Evidence from local elections and audits in Brazil </strong>  <br/>
@@ -111,11 +156,22 @@ While recent studies examine anti-establishment parties and candidates, fewer fo
 <h3>Conflict and Post-conflict Studies</h3> <p>
   
 <details>
-<summary> <strong style="color:royalblue"> Prospective and retrospective approaches: conflict exposure and attitudes on the peace agreement in Colombia </strong> (R&R at International Interactions) <br/>
-Aila M. Matanock, Miguel García-Sánchez, and Natalia Garbiras-Díaz <br/>
+<summary> <strong style="color:royalblue"> Prospective and retrospective approaches: conflict exposure and attitudes on the peace agreement in Colombia </strong> (<i>Under review</i>) <br/>
+Natalia Garbiras-Díaz, Miguel García-Sánchez, and Aila M. Matanock <br/>
 </summary>
 <br/>
-There is no clear consensus on the effect of exposure to conflict on attitudes towards peace agreements. For example, in Colombia, some suggest that exposure to FARC violence increases support for peace (Dávalos et al., 2018; Tellez, 2019); others show that attitudes towards the peace process are not strongly correlated with conflict experiences (Hazlett and Parente, 2020; Liendo and Braithwaite, 2018; Nussio et al., 2015). In this paper, we contribute to this debate. While most work assumes that those exposed to violent contexts use their past experiences with violence to form their attitudes toward peace agreements, we argue that people living in these regions form their opinions about the accords by weighing the future benefits that they will have access to after a peace agreement is signed. Using new survey data from a matched sample of municipalities in Colombia, we test the effects of past violence and being a potential beneficiary of the agreement on four sets of outcomes: general attitudes towards peace; provisions included in the accord that directly benefit former combatants; provisions that potentially benefit regular citizens; and the actual expected benefits. We find that previous experience with violence has almost no association with these attitudes; however, being a resident of a locality targeted by provisions that potentially provide peace dividends has a consistent and strong impact on these attitudes.
+This paper examines how citizens form attitudes toward peace agreements by weighing the costs and benefits of a deal, focusing on Colombia’s 2016 accord with the FARC. While existing research emphasizes evaluations shaped by the costs associated with prior violence, we argue that expectations of future benefits play a critical role in shaping public opinion. Drawing on self-interest theories, we propose that individuals in conflict-affected areas assess peace agreements based on anticipated material and non-material gains. Using a matched-pair design comparing municipalities included in the agreement’s development programs (PDET) with similar non-PDET areas, we evaluate the impact of eligibility for peace-related benefits on citizens’ knowledge, general attitudes, support for provisions, and future expectations. We find that residents in PDET municipalities are more informed, more supportive of provisions for regular citizens, and more optimistic about outcomes. These results suggest that public opinion on peace deals is shaped not only by past costs but also by perceived future benefits, underscoring the importance of forward-looking evaluations in post-conflict settings.
+
+* [Working paper](http://ssrn.com/abstract=4013416)
+  
+</details>
+
+<details>
+<summary> <strong style="color:royalblue"> Spoiling Support for Peace Processes? </strong> (<i>Under review</i>) <br/>
+Aila M. Matanock, Natalia Garbiras-Díaz, and Miguel García-Sánchez <br/>
+</summary>
+<br/>
+This note examines how rebel factions that break from peace agreements can undermine public support for peace agreements. We hypothesize that such spoilers affect: expectations about rebel compliance; attitudes toward reconciliation and reintegration; and confidence in the peace agreement. Using a survey experiment conducted in Colombia shortly after a dissident group rearmed, we test these effects. Results show shifts in public attitudes, especially regarding reconciliation, which may destabilize the peace process. Spoilers can disrupt the path to peace by weakening support for coexistence with former combatants. 
 
 * [Working paper](http://ssrn.com/abstract=4013416)
   
@@ -124,13 +180,24 @@ There is no clear consensus on the effect of exposure to conflict on attitudes t
 <br/>  
   
 <details>
-<summary> <strong style="color:royalblue"> Do Third Parties Reduce Commitment Problems After Civil War? Microfoundational Evidence from Ex-Combatants in Colombia </strong> <br/>
+<summary> <strong style="color:royalblue"> Do Third Parties Reduce Commitment Problems After Civil War? Microfoundational Evidence from Ex-Combatants in Colombia </strong> (<i>Under review</i>) <br/>
 Leopoldo Fergusson, Natalia Garbiras-Díaz, Juana García, Michael Weintraub and Laia Balcells
 </summary>
 <br/>
 Since the Cold War, international third parties such as the United Nations (UN) have become frequent guarantors of peace agreements. Existing studies demonstrate that third parties ameliorate credible commitment problems, in part by reducing acute security threats faced by members of former rebel groups. Yet these studies exclusively marshal evidence at the macro-level, and are therefore unable to show whether ex-combatants are truly reassured by the presence and activities of third parties, and in what ways. Using a novel phone survey of 4,435 ex-combatants from the FARC-EP, Colombia’s largest rebel group, and an embedded survey experiment, we provide the first microfoundational test of prominent third party credible commitment theories. We find no evidence that third actors: increased confidence among ex-combatants that the government would fulfill its commitment to implement the peace agreement; increased confidence that the FARC would do the same; improved perceptions of physical safety; or increased trust in institutions more generally. Put differently, we are unable to recover microfoundational evidence in favor of third party credible commitment theories. We discuss potential explanations for these null findings and the study’s relevance for debates about conflict termination, implementation of the agreements and the duration of peace.
 
 * Presented at the 2022 ESOC Annual Meeting
+</details>
+
+<br/>
+  
+<details>
+<summary> <strong style="color:royalblue"> Untouchable Forces: Restoring Trust in Security in Weak States? </strong> <br/>
+Aila M. Matanock and Natalia Garbiras-Díaz <br/>
+</summary>
+<br/>
+How can weak states improve security? We build on existing work theorizing that a crucial component of strengthening security is improving citizen perceptions of the institutions providing security and then thereby securing their cooperation with those institutions. We examine whether foreign missions that states invite to conduct security functions, "delegation agreements" (DAs), are able to change citizens' perceptions on these dimensions. We argue DAs are likely to improve citizen perceptions of security while they are operating but to have little transfer effect to state institutions. We test the theory by examining the U.N.'s International Commission against Impunity in Guatemala (CICIG), a team of investigators and prosecutors that operated in Guatemalan courts from 2007-2019, which was a canonical and seemingly successful DA. In this "most likely" case to detect any transfer effects, we use a survey experiment to examine, first, whether invoking CICIG as a case investigator increases citizen beliefs that the perpetrators and their state collaborators will be correctly identified, prosecuted, and convicted. We find that the CICIG prime does have consistently positive effects. We then examine citizen perceptions of institutions, and, measuring several outcomes, we find that CICIG has little transfer effect to state security institutions, although a successful CICIG may reduce the legitimacy of the state to some extent. Our results identify a positive effect from this foreign mission but no overall shift in citizen perceptions and subsequent pathway to increased security through their cooperation.
+
 </details>
 
 <br/>
@@ -148,60 +215,4 @@ En agosto del 2019 se cumplieron dos años de la reincorporación de las Farc-EP
 
  <br/>
   
-<details>
-<summary> <strong style="color:royalblue"> Untouchable Forces: Restoring Trust in Security in Weak States? </strong> <br/>
-Aila M. Matanock and Natalia Garbiras-Díaz <br/>
-</summary>
-<br/>
-How can weak states improve security? We build on existing work theorizing that a crucial component of strengthening security is improving citizen perceptions of the institutions providing security and then thereby securing their cooperation with those institutions. We examine whether foreign missions that states invite to conduct security functions, "delegation agreements" (DAs), are able to change citizens' perceptions on these dimensions. We argue DAs are likely to improve citizen perceptions of security while they are operating but to have little transfer effect to state institutions. We test the theory by examining the U.N.'s International Commission against Impunity in Guatemala (CICIG), a team of investigators and prosecutors that operated in Guatemalan courts from 2007-2019, which was a canonical and seemingly successful DA. In this "most likely" case to detect any transfer effects, we use a survey experiment to examine, first, whether invoking CICIG as a case investigator increases citizen beliefs that the perpetrators and their state collaborators will be correctly identified, prosecuted, and convicted. We find that the CICIG prime does have consistently positive effects. We then examine citizen perceptions of institutions, and, measuring several outcomes, we find that CICIG has little transfer effect to state security institutions, although a successful CICIG may reduce the legitimacy of the state to some extent. Our results identify a positive effect from this foreign mission but no overall shift in citizen perceptions and subsequent pathway to increased security through their cooperation.
-
-</details>
-
-<br/>
-
-<details>
-<summary> <strong style="color:royalblue"> The pacifying role of education: The case of Radio Sutatenza </strong> <br/>
-Natalia Garbiras-Díaz and Laura García-Montoya <br/>
-</summary>
-<br/>
-Between 1947 and 1994, Radio Sutatenza influenced the lives of millions of Colombians through its broadcasted lessons and *Escuelas Radiofónicas*. In this paper, we explore the effects of Radio Sutatenza and Escuelas Radiofónicas on armed conflict intensity. That is both on violence and on the expansion of armed group presence. The findings of this paper advance our understanding of the relationship between education and civil war. The context in which Radio Sutatenza was created and its later phase of expansion offers a unique opportunity to study whether education can break violence cycles. We estimate the effect of Escuelas Radiofónicas on the incidence of violence at the municipal level using two different identification strategies, a difference in differences design and an instrumental variables approach. We find robust evidence for the pacifying effect of education at the subnational level. Specifically, municipalities with radio schools experienced lower violence levels in the 1960s and, later, in the 1970s. 
-
-* Presented at the 2020 APSA Annual Meeting
-</details>
-  
-</p> </section>
-
-<section>
-<h3>Political Accountability and Development</h3> <p>
-
-<details>
-<summary> <strong strong style="color:royalblue"> Electoral Integrity and Local Development </strong>  <br/>
-Natalia Garbiras-Díaz and Mateo Montenegro <br/>
-</summary>
-<br/>
-Does electoral integrity improve local development? Prevailing theories of democracy suggest that well-functioning elections allow citizens to select good politicians (<i>selection channel</i>) and incentivize their effort (<i>accountability channel</i>). Despite the intuitive logic of these arguments, there is limited empirical evidence supporting them. We address this gap by leveraging unique experimental variation in electoral integrity from a randomized intervention conducted during Colombia’s 2019 mayoral elections, which reduced electoral irregularities. We document four findings. First, treated municipalities experienced increased access to local public goods over the subsequent four years. Second, mayors in treated municipalities became more efficient and less wasteful, as measured by procurement outcomes and corruption-related judicial processes. Third, we develop a novel framework to quantify the contribution of the selection channel and find it plays a substantial role in the overall effect. Finally, we find that alternative explanations—such as increased citizen demand—are unlikely to account for the results. These findings underscore the developmental value of transparent elections.
-  
-</details>
-<br/>
-
-<details>
-<summary> <strong style="color:royalblue"> Government Oversight and Inter-Institutional Legibility: Evidence from Colombia </strong> (R&R at the <i>Journal of Politics<i>) <br/>
-Natalia Garbiras-Díaz and Tara Slough <br/>
-</summary>
-<br/>
-States collect vast amounts of data for use in policymaking and public administration. To do so, central governments frequently solicit data from the bureaucrats of decentralized government entities. Because central governments use these data in policymaking, bureaucrats in decentralized entities may face incentives to report inaccurately, limiting the quality of state data. We study these dynamics in the production of Colombia’s 2020 National Transparency Index in collaboration with the Colombian Attorney Inspector General’s office. A field experiment varied the salience of direct oversight of the reported data by this watchdog agency in direct communication to individual bureaucratic entities. Bureaucrats respond to more salient oversight by changing reporting behavior. Through an independent audit of subjects’ transparency practices, we describe how bureaucrats’ reporting behaviors vary in the actual transparency practices of their organization. We argue that the strategic dynamics inherent to decentralized data production by bureaucrats render state data an important but understudied political outcome.
-
-* Presented at the 2021 APSA Annual Meeting
-
-<details>
-<summary> <strong style="color:royalblue"> Social Norms and the Persistence of Corruption: Experimental evidence of individuals' attitudes and behavior related to corruption in Latin America </strong> <br/>
-Natalia Garbiras-Díaz <br/>
-</summary>
-<br/>
-Despite systematic efforts by both countries and the international community to reduce its prevalence, corruption remains a pervasive phenomenon across the developing world. What explains the persistence of corruption? Furthermore, can social norms account for some of this persistence? In this paper, I study the effect of injunctive norms (the perceived moral rules that determine the approval or disapproval of social behavior) and descriptive norms (the perceived frequency of a conduct in a particular context) on individuals' behavior and attitudes towards corruption. I explore this question using a survey experiment conducted in Argentina, which isolates alternative explanations for corruption. I randomly show respondents vignettes that manipulate either the descriptive or injunctive norm. I then ask them to answer a series of questions that measure their attitudes toward bribery (e.g., the extent to which they consider bribery to be justifiable, among other questions), as well as other behavioral outcomes. While I find empirical evidence for the effect of descriptive norms on both individuals' attitudes and behavior related to corruption; I find no statistical support for the effect of injunctive norms on any of the analyzed outcomes. Taken together, results suggest that descriptive norms operate as informational devices, and that correcting misperceptions about these may serve as an antidote against corruption.  To the best of my knowledge, little work has been done to identify the causal effect of social norms, and their interactions, on corruption. In this respect, this paper makes two contributions. From a theoretical perspective, it contributes to a growing body of research on the  effect of culture on corruption, providing evidence on the causal relationship between social norms and attitudes toward bribery. From a policy perspective, it sheds light on methods to successfully design anti-corruption campaigns that reduce individuals' likelihood to engage in petty corruption.    
-
-</details>
-
-<br/>
-
 </p> </section>
