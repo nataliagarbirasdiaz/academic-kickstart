@@ -92,7 +92,7 @@ subtitle = ""
 <h4>Universidad Católica de Uruguay, Montevideo, Uruguay</h4> 
 <p>
 <ul>
-  <li><em>Experimentos de Campo en las Ciencias Sociales: Teoría y Práctica</em> (course taught in Spanish). Cross-level course. Summer, 2021 </li>
+  <li><em>Experimentos de Campo en las Ciencias Sociales: Teoría y Práctica</em> (course taught in Spanish). Cross-level course. Summer, 2021, 2023, 2025 </li>
 </ul>  
 </p>
 </section>
