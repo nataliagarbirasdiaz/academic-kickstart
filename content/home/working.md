@@ -177,8 +177,7 @@ This note examines how rebel factions that break from peace agreements can under
 * [Working paper](http://ssrn.com/abstract=4013416)
   
 </details>
-
-
+<br/>
   
 <details>
 <summary> <strong style="color:royalblue"> Do Third Parties Reduce Commitment Problems After Civil War? Microfoundational Evidence from Ex-Combatants in Colombia </strong> (<i>Under review</i>) <br/>
@@ -189,7 +188,6 @@ Since the Cold War, international third parties such as the United Nations (UN) 
 
 * Presented at the 2022 ESOC Annual Meeting
 </details>
-
 <br/>
   
 <details>
@@ -200,7 +198,6 @@ Aila M. Matanock and Natalia Garbiras-Díaz <br/>
 How can weak states improve security? We build on existing work theorizing that a crucial component of strengthening security is improving citizen perceptions of the institutions providing security and then thereby securing their cooperation with those institutions. We examine whether foreign missions that states invite to conduct security functions, "delegation agreements" (DAs), are able to change citizens' perceptions on these dimensions. We argue DAs are likely to improve citizen perceptions of security while they are operating but to have little transfer effect to state institutions. We test the theory by examining the U.N.'s International Commission against Impunity in Guatemala (CICIG), a team of investigators and prosecutors that operated in Guatemalan courts from 2007-2019, which was a canonical and seemingly successful DA. In this "most likely" case to detect any transfer effects, we use a survey experiment to examine, first, whether invoking CICIG as a case investigator increases citizen beliefs that the perpetrators and their state collaborators will be correctly identified, prosecuted, and convicted. We find that the CICIG prime does have consistently positive effects. We then examine citizen perceptions of institutions, and, measuring several outcomes, we find that CICIG has little transfer effect to state security institutions, although a successful CICIG may reduce the legitimacy of the state to some extent. Our results identify a positive effect from this foreign mission but no overall shift in citizen perceptions and subsequent pathway to increased security through their cooperation.
 
 </details>
-
 <br/>
 
 <details>
@@ -213,7 +210,6 @@ En agosto del 2019 se cumplieron dos años de la reincorporación de las Farc-EP
 * [CEDE Working Paper 2020-24](https://ideas.repec.org/p/col/000089/018247.html)
 
 </details>  
-
  <br/>
   
 </p> </section>
