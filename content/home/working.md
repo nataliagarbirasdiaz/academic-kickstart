@@ -165,6 +165,7 @@ This paper examines how citizens form attitudes toward peace agreements by weigh
 * [Working paper](http://ssrn.com/abstract=4013416)
   
 </details>
+<br/>  
 
 <details>
 <summary> <strong style="color:royalblue"> Spoiling Support for Peace Processes? </strong> (<i>Under review</i>) <br/>
@@ -177,7 +178,7 @@ This note examines how rebel factions that break from peace agreements can under
   
 </details>
 
-<br/>  
+
   
 <details>
 <summary> <strong style="color:royalblue"> Do Third Parties Reduce Commitment Problems After Civil War? Microfoundational Evidence from Ex-Combatants in Colombia </strong> (<i>Under review</i>) <br/>
