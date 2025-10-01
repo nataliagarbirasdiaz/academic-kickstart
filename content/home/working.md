@@ -117,8 +117,8 @@ Despite systematic efforts by both countries and the international community to 
 <h3>Democracy, Outsiders and Anti-establishment Politics</h3> <p>
 
 <details>
-<summary> <strong strong style="color:royalblue"> Citizens' Commitment to Democracy: Easier Said Than Done? </strong>  <br/>
-Natalia Garbiras-Díaz, Loreto Cox and Hernán Carvajal <br/>
+<summary> <strong strong style="color:royalblue"> Citizens' Commitment to Democracy: Easier Said Than Done? </strong> (<i>Under review</i>) <br/>
+Hernán Carvajal, Loreto Cox and Natalia Garbiras-Díaz <br/>
 </summary>
 <br/>
 Does citizens' stated commitment to democracy predict their willingness to defend it? We address this question by leveraging a unique setup tracking democratic attitudes surrounding Peru's 2022 self-coup. Our analysis combines an original two-wave pre-coup panel measuring explicit support for democracy through direct questions and implicit support through votes for hypothetical undemocratic candidates in a conjoint experiment with a third wave capturing responses to Pedro Castillo's failed self-coup. We show that condemnation of the coup was not unanimous, and Castillo voters were more forgiving, adjusting their democratic standards and ceasing to view shutting down Congress as undemocratic. Crucially, stated commitment matters: explicit survey responses strongly predict condemnation of the coup, as strongly as having voted for Castillo, while the conjoint measure predicts it only weakly. Robustness analyses using Colombian data provide external validity. Our findings provide methodological and substantive insights into how to anticipate citizens' democratic commitments under stress.
@@ -157,6 +157,16 @@ While recent studies examine anti-establishment parties and candidates, fewer fo
   
 * Presented at the 2022 EPSA Annual Meeting and the VI Latin American Political Methods Meeting 
 * [Working paper](https://www.dropbox.com/scl/fo/6vrk9us5l8ztkjoaeqgrh/h?dl=0&rlkey=c7ir3swl9vhz2bo0g96fyumgj)
+  
+</details>
+<br/>
+
+<details>
+<summary> <strong strong style="color:royalblue"> Support for citizen deliberation in a deeply divided society: experimental evidence from Lebanon </strong> (<i>Under review</i>) <br/>
+Julian Vierlinger, Natalia Garbiras-Díaz, and Christoph Niessen <br/>
+</summary>
+<br/>
+To alleviate social divisions and overcome consociational deadlock in divided societies, scholars have advocated for integrating deliberative citizen assemblies (DCAs) into decision-making. Despite increasing attention, research on DCAs’ popular legitimacy is still nascent--especially in non-Western societies. We tested citizens’ support for DCAs compared to other forms of decision-making through a representative survey experiment in an archetypal divided society: Lebanon. A majority of respondents found decisions taken with DCAs legitimate, which is high for a divided society with low inter-personal trust and little experience with DCAs. Yet, despite disillusionment with the functioning of representative democracy in Lebanon, respondents displayed strong beliefs in representative institutions <i>per se</i>, and still prefer them over DCAs. Results are robust across policy fields and directions. These findings provide interesting perspectives on citizen deliberation as a democratic reform proposal in divided societies, and on the resilience of representative democracy in an unlikely place.
   
 </details>
 
