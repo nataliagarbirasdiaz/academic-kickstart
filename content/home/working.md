@@ -152,7 +152,9 @@ Public opinion surveys show rising levels of distrust in parties and anti-elite 
 <details>
 <summary> <strong strong style="color:royalblue"> The nature, sources, and consequences of citizens’ anti-establishment sentiments: Evidence from two Latin American countries </strong>  <br/>
 Loreto Cox and Natalia Garbiras-Díaz <br/>
-* [Working paper](https://www.hbs.edu/faculty/Pages/item.aspx?num=64853)   <br/>
+
+  * [Working paper](https://www.hbs.edu/faculty/Pages/item.aspx?num=64853)   <br/>
+
 </summary>
 <br/>
 While recent studies examine anti-establishment parties and candidates, fewer focus on citizens' anti-establishment sentiments, which we define as an intense and angry animosity toward political elites and distrust of political parties. What are the sources of these sentiments? What are their causal effects on political attitudes and voting behavior? We answer these questions using panel survey data from Colombia and Peru ahead of the 2022 elections. Specifically, we combine priming and conjoint experiments with text analysis of open-ended questions. We find that anti-establishment sentiments are widespread, span the ideological spectrum, and stem mainly from perceptions of corruption and unfulfilled promises. They do not make citizens less democratic but reduce trust in institutions. We also find that candidates who use anti-establishment appeals gain an electoral advantage, which then weakens citizens' punishment of anti-democratic candidates. In Colombia, where voting is voluntary, we also find mobilizing effects of anti-establishment sentiments. Overall, we advance the understanding of citizens' disillusionment with politicians, a pervasive global phenomenon.
@@ -179,7 +181,9 @@ To alleviate social divisions and overcome consociational deadlock in divided so
 <details>
 <summary> <strong style="color:royalblue"> Prospective and retrospective approaches: conflict exposure and attitudes on the peace agreement in Colombia </strong> (<i>Under review</i>) <br/>
 Natalia Garbiras-Díaz, Miguel García-Sánchez, and Aila M. Matanock <br/>
-* [Working paper](http://ssrn.com/abstract=4013416) <br/>
+
+  * [Working paper](http://ssrn.com/abstract=4013416) <br/>
+
 </summary>
 <br/>
 This paper examines how citizens form attitudes toward peace agreements by weighing the costs and benefits of a deal, focusing on Colombia’s 2016 accord with the FARC. While existing research emphasizes evaluations shaped by the costs associated with prior violence, we argue that expectations of future benefits play a critical role in shaping public opinion. Drawing on self-interest theories, we propose that individuals in conflict-affected areas assess peace agreements based on anticipated material and non-material gains. Using a matched-pair design comparing municipalities included in the agreement’s development programs (PDET) with similar non-PDET areas, we evaluate the impact of eligibility for peace-related benefits on citizens’ knowledge, general attitudes, support for provisions, and future expectations. We find that residents in PDET municipalities are more informed, more supportive of provisions for regular citizens, and more optimistic about outcomes. These results suggest that public opinion on peace deals is shaped not only by past costs but also by perceived future benefits, underscoring the importance of forward-looking evaluations in post-conflict settings.
@@ -190,7 +194,9 @@ This paper examines how citizens form attitudes toward peace agreements by weigh
 <details>
 <summary> <strong style="color:royalblue"> Spoiling Support for Peace Processes? </strong> (<i>Under review</i>) <br/>
 Aila M. Matanock, Natalia Garbiras-Díaz, and Miguel García-Sánchez <br/>
-* [Working paper](http://ssrn.com/abstract=4013416)  <br/>
+
+  * [Working paper](http://ssrn.com/abstract=4013416)  <br/>
+
 </summary>
 <br/>
 This note examines how rebel factions that break from peace agreements can undermine public support for peace agreements. We hypothesize that such spoilers affect: expectations about rebel compliance; attitudes toward reconciliation and reintegration; and confidence in the peace agreement. Using a survey experiment conducted in Colombia shortly after a dissident group rearmed, we test these effects. Results show shifts in public attitudes, especially regarding reconciliation, which may destabilize the peace process. Spoilers can disrupt the path to peace by weakening support for coexistence with former combatants. 
@@ -223,7 +229,9 @@ How can weak states improve security? We build on existing work theorizing that 
 <details>
 <summary> <strong style="color:royalblue"> Actitudes de exintegrantes de las Farc–EP frente a la reincorporación </strong> <br/>
 Ana Arjona, Leopoldo Fergusson, Natalia Garbiras-Díaz, Juana García-Duque, Tatiana Hiller, Lewis Polo and Michael Weintraub <br/>
-* [CEDE Working Paper 2020-24](https://ideas.repec.org/p/col/000089/018247.html) <br/>
+
+  * [CEDE Working Paper 2020-24](https://ideas.repec.org/p/col/000089/018247.html) <br/>
+
 </summary>
 <br/>
 En agosto del 2019 se cumplieron dos años de la reincorporación de las Farc-EP. Este proceso es uno de los principales desafíos de la implementación del Acuerdo Final firmado entre el Estado colombiano y la organización guerrillera en noviembre de 2016. Los avances en materia de reincorporación garantizarán su sostenibilidad. En este documento analizamos las actitudes de los exintegrantes frente al proceso en esta primera etapa, tomando los resultados del Registro Nacional de Reincorporación (RNR), realizado entre la Agencia Nacional de Reincorporación (ARN) y el componente Farc del Consejo Nacional de Reincorporación (CNR). Tras mostrar que hay aspectos positivos en las actitudes de las personas en proceso de reincorporación, y algunos que deben mirarse con preocupación, estudiamos qué características de los exintegrantes y su entorno se asocian con mejores actitudes y condiciones para la implementación del proceso de reincorporación. Complementamos este análisis contrastando las actitudes de la población en proceso de reincorporación con las de la población civil, haciendo paralelos, en términos de los retos de política pública, para ambos grupos. La evidencia presentada sirve para canalizar esfuerzos en donde más parecen necesitarse.    
