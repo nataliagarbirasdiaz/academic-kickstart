@@ -164,15 +164,6 @@ While recent studies examine anti-establishment parties and candidates, fewer fo
 </details>
 <br/>
 
-<details>
-<summary> <strong strong style="color:royalblue"> Support for citizen deliberation in a deeply divided society: experimental evidence from Lebanon </strong> (<i>Under review</i>) <br/>
-Julian Vierlinger, Natalia Garbiras-Díaz, and Christoph Niessen <br/>
-</summary>
-<br/>
-To alleviate social divisions and overcome consociational deadlock in divided societies, scholars have advocated for integrating deliberative citizen assemblies (DCAs) into decision-making. Despite increasing attention, research on DCAs’ popular legitimacy is still nascent--especially in non-Western societies. We tested citizens’ support for DCAs compared to other forms of decision-making through a representative survey experiment in an archetypal divided society: Lebanon. A majority of respondents found decisions taken with DCAs legitimate, which is high for a divided society with low inter-personal trust and little experience with DCAs. Yet, despite disillusionment with the functioning of representative democracy in Lebanon, respondents displayed strong beliefs in representative institutions <i>per se</i>, and still prefer them over DCAs. Results are robust across policy fields and directions. These findings provide interesting perspectives on citizen deliberation as a democratic reform proposal in divided societies, and on the resilience of representative democracy in an unlikely place.
-  
-</details>
-
 </p> </section>  
 
 <section>
