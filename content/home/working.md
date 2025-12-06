@@ -80,7 +80,7 @@ Does electoral integrity improve local development? Prevailing theories of democ
 <br/>
 
 <details>
-<summary> <strong style="color:royalblue"> Government Oversight and Inter-Institutional Legibility: Evidence from Colombia </strong> (R&R at the <i>Journal of Politics</i>) <br/>
+<summary> <strong style="color:royalblue"> Government Oversight and Inter-Institutional Legibility: Evidence from Colombia </strong> (Conditionally Accepted at the <i>Journal of Politics</i>) <br/>
 Natalia Garbiras-Díaz and Tara Slough <br/>
 </summary>
 <br/>
