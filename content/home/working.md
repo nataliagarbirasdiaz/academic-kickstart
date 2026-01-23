@@ -119,13 +119,15 @@ Despite systematic efforts by both countries and the international community to 
 <h3>Democracy, Outsiders and Anti-establishment Politics</h3> <p>
 
 <details>
-<summary> <strong strong style="color:royalblue"> Citizens' Commitment to Democracy: Easier Said Than Done? </strong> (<i>Under review</i>) <br/>
+<summary> <strong strong style="color:royalblue"> Citizen Democratic Commitment Under Stress: Panel Evidence from a Self-Coup in Peru </strong> (<i>Under review</i>) <br/>
 Hernán Carvajal, Loreto Cox and Natalia Garbiras-Díaz <br/>
 
 * [Working paper](https://www.hbs.edu/faculty/Pages/item.aspx?num=68002) <br/>
 </summary>
 <br/>
-Does citizens' stated commitment to democracy predict their willingness to defend it? We address this question by leveraging a unique setup tracking democratic attitudes surrounding Peru's 2022 self-coup. Our analysis combines an original two-wave pre-coup panel measuring explicit support for democracy through direct questions and implicit support through votes for hypothetical undemocratic candidates in a conjoint experiment with a third wave capturing responses to Pedro Castillo's failed self-coup. We show that condemnation of the coup was not unanimous, and Castillo voters were more forgiving, adjusting their democratic standards and ceasing to view shutting down Congress as undemocratic. Crucially, stated commitment matters: explicit survey responses strongly predict condemnation of the coup, as strongly as having voted for Castillo, while the conjoint measure predicts it only weakly. Robustness analyses using Colombian data provide external validity. Our findings provide methodological and substantive insights into how to anticipate citizens' democratic commitments under stress.
+Do citizens stand by their democratic principles when democracy is under threat? We address this question using a unique design that tracks Peruvians' democratic attitudes around Pedro Castillo's attempted 2022 self-coup. We combine a two-wave "pre-shock" panel measuring explicit support for democracy through direct questions and implicit support through votes for hypothetical undemocratic candidates in a conjoint experiment with a third wave capturing responses to Castillo's shock. We show that Castillo voters are more forgiving of the self-coup and adjust their standards to view shutting down Congress as no longer undemocratic. Yet, pre-shock stated commitment matters: explicit survey responses strongly predict condemnation of the self-coup, at least as strongly as having voted for Castillo. Notably, the conjoint measure predicts it only weakly. Robustness analyses using Colombian data provide external validity. Our findings offer real-world substantive and methodological insights into how democratic commitments shape citizens' responses when democracy is under stress.
+
+* Previously circulated as: "Easier said than done: Citizens’ stated and revealed democratic commitment in Latin America." Presented at the 2025 APSA Annual Meeting, and the 2025 EPSA Annual Meeting
   
 </details>
 <br/>
@@ -153,15 +155,15 @@ Public opinion surveys show rising levels of distrust in parties and anti-elite 
 <br/>
   
 <details>
-<summary> <strong strong style="color:royalblue"> The nature, sources, and consequences of citizens’ anti-establishment sentiments: Evidence from two Latin American countries </strong>  <br/>
+<summary> <strong strong style="color:royalblue"> The Anatomy, Sources, and Consequences of Citizen Discontent with the Political Establishment: Experimental Evidence from Latin America </strong> (<i>Under review</i>) <br/>
 Loreto Cox and Natalia Garbiras-Díaz <br/>
 
 * [Working paper](https://www.hbs.edu/faculty/Pages/item.aspx?num=64853)   <br/>
 </summary>
 <br/>
-While recent studies examine anti-establishment parties and candidates, fewer focus on citizens' anti-establishment sentiments, which we define as an intense and angry animosity toward political elites and distrust of political parties. What are the sources of these sentiments? What are their causal effects on political attitudes and voting behavior? We answer these questions using panel survey data from Colombia and Peru ahead of the 2022 elections. Specifically, we combine priming and conjoint experiments with text analysis of open-ended questions. We find that anti-establishment sentiments are widespread, span the ideological spectrum, and stem mainly from perceptions of corruption and unfulfilled promises. They do not make citizens less democratic but reduce trust in institutions. We also find that candidates who use anti-establishment appeals gain an electoral advantage, which then weakens citizens' punishment of anti-democratic candidates. In Colombia, where voting is voluntary, we also find mobilizing effects of anti-establishment sentiments. Overall, we advance the understanding of citizens' disillusionment with politicians, a pervasive global phenomenon.
+Riding a global wave of discontent with political elites, anti-establishment candidates have gained significant electoral success around the world. While over 70% of worldwide citizens express discontent, its characteristics, sources and consequences remain understudied, particularly using causal inference. To address this, we study citizen discontent in Latin America. Leveraging survey data from Colombia and Peru during the 2022 elections and combining experimental and observational approaches, we document five key findings. First, citizen discontent is widespread, extends beyond populist attitudes, and spans the ideological spectrum. Second, discontent is driven primarily by perceptions of corruption and broken promises. Third, heightened discontent reduces trust in institutions, and in Colombia—where voting is voluntary—it also mobilizes voters. Fourth, discontent does not change views about democracy. Finally, discontent shapes how citizens evaluate candidates, boosting the electoral appeal of anti-establishment rhetoric. Overall, we offer substantive and methodological contributions to understanding political disaffection in contemporary democracies.
   
-* Presented at the 2022 EPSA Annual Meeting and the VI Latin American Political Methods Meeting 
+* Previously circulated as: "Anti-political-establishment Citizens: An in-depth study from two Latin American countries." Presented at the 2022 EPSA Annual Meeting, and the VI Latin American Political Methods Meeting 
   
 </details>
 <br/>
