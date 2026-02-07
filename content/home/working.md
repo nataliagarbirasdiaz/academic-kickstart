@@ -80,18 +80,6 @@ Does electoral integrity improve local development? Prevailing theories of democ
 <br/>
 
 <details>
-<summary> <strong style="color:royalblue"> Government Oversight and Inter-Institutional Legibility: Evidence from Colombia </strong> (Conditionally Accepted at the <i>Journal of Politics</i>) <br/>
-Natalia Garbiras-Díaz and Tara Slough <br/>
-</summary>
-<br/>
-Effective governance requires reliable information. Many types of administrative data are produced from decentralized entities' reports to the central government. The use of these data for policymaking or oversight creates incentives for decentralized bureaucrats to strategically (mis)report, reducing the quality of the resultant data. We conceptualize this challenge as one of <i>inter-institutional legibility</i>, shaped by principal-agent dynamics between central and decentralized governments. We study these dynamics experimentally in the production of Colombia's National Transparency Index by partnering with a national watchdog agency to assess the effect of increasing the salience of oversight on decentralized entities' reporting behavior. More salient oversight changes reported scores and may marginally increase reporting rates. Comparing self-reports to an independent audit, we show that selection, distortion, and noise in reports limit the legibility of these entities to the central government. Our findings underscore the challenge of administrative data collection and the use of these data. 
-
-* Presented at the 2021 APSA Annual Meeting
-
-</details>
-<br/>
-
-<details>
 <summary> <strong style="color:royalblue"> Accents as Capital </strong> <br/>
 Leopoldo Fergusson, Natalia Garbiras-Díaz, and Michael Weintraub <br/>
   
