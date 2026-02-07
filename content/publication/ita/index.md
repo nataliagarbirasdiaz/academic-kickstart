@@ -49,7 +49,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "/pdf/oversight-legibility-colombia.pdf"
+url_pdf = "/files/oversight-legibility-colombia.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
