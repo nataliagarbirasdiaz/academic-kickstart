@@ -18,7 +18,7 @@ authors = ["Natalia Garbiras-Díaz"]
 publication_types = ["6"]
 
 # Publication name and optional abbreviated version.
-publication = "*Peace Review* 30(1), 120-123"
+publication = "*Peace Review* 30 (1), 120-123"
 publication_short = ""
 
 # Abstract and optional shortened version.
