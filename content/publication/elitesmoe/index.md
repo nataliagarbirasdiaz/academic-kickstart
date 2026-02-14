@@ -77,4 +77,3 @@ doi = "https://doi.org/10.1177/00220027221099245"
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
-**Award:** Winner of the APSA 2024 Catherine McArdle Kelleher Award for Best International Security Article
