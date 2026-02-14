@@ -26,7 +26,7 @@ abstract = "Este capítulo describe las trayectorias de atención en el proceso 
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
