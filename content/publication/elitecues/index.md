@@ -18,11 +18,11 @@ authors = ["Natalia Garbiras-Díaz", "Miguel García-Sánchez", "Aila M. Matanoc
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Garbiras-Díaz, Natalia, Miguel García-Sánchez and Aila M. Matanock. 2023. ''All Eyes on Them: A Field Experiment on Citizen Oversight and Electoral Integrity.'' *American Economic Review*, 112 (8): 2631-68."
+publication = "Garbiras-Díaz, Natalia, Miguel García-Sánchez and Aila M. Matanock. 2023. ''Political elite cues and attitude formation in post-conflict contexts.'' *Journal of Peace Research*, 61 (5): 874-890."
 publication_short = "*Journal of Peace Research*, Accepted"
 
 # Abstract and optional shortened version.
-abstract = "Civil conflicts typically end with negotiated settlements, but many settlements fail, often during the implementation stage where average citizens have increasing influence. Citizens sometimes evaluate peace agreements by voting on referendums or the negotiating leaders, and, almost always, they decide whether to cooperate. Yet, despite their role, we do not know much about how citizens form attitudes toward peace agreements. In this article, we assess how citizens form attitudes toward settlements, specifically the policy provisions that emerge from them, which are central in shaping the post-conflict context. These are complex policy changes, involving deeply factionalized actors, and the citizens evaluating them are often focused on rebuilding their lives. We therefore theorize that citizens use stark cues from political elites with whom they have affinity to form their attitudes. We test our theory using survey experiments in Colombia. We find citizens rely on political elites' cues to decide their stance on the settlement's provisions. These cues appear to supply easily-accessible information that respondents use over other information. In contrast to work positing that settlements are exceptional and weary citizens are stabilizing forces, our results suggest that even these decisions are politics as usual, where divisions among political elites drive the outcome."
+abstract = "Civil conflicts typically end with negotiated settlements, but many settlements fail, often during the implementation stage when average citizens have increasing influence. Citizens sometimes evaluate peace agreements by voting on referendums or the negotiating leaders, and, almost always, they decide whether to cooperate. Yet, despite their role, we do not know much about how citizens form attitudes toward peace agreements. In this article, we assess how citizens form attitudes toward settlements, specifically the policy provisions that emerge from them, which are central in shaping the post-conflict context. These are complex policy changes, involving deeply factionalized actors, and the citizens evaluating them are often focused on rebuilding their lives. We therefore theorize that citizens use stark cues from political elites with whom they have affinity to form their attitudes. We test our theory using survey experiments in Colombia. We find that citizens rely on political elites’ cues to decide their stance on the settlement’s provisions. These cues appear to supply easily-accessible information that respondents use over other information. In contrast to work positing that peace agreements are exceptional and weary citizens are stabilizing forces, our results suggest that even these decisions are politics as usual, where divisions among political elites drive the outcome."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
@@ -61,12 +61,12 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "VoxDev", url = "https://voxdev.org/topic/institutions-political-economy/citizens-can-effectively-monitor-integrity-their-elections-evidence-colombia"}]
+ url_custom = [{name = "Open Acces", url = "https://academic.oup.com/jpr/article/61/5/874/8364817?login=false"}]
 
 # links = [{name = "VoxDev", url = "https://voxdev.org/topic/institutions-political-economy/citizens-can-effectively-monitor-integrity-their-elections-evidence-colombia"}]
 
 # Digital Object Identifier (DOI)
-# doi = "https://doi.org/10.1257/aer.20210778"
+ doi = "https://doi.org/10.1177/0022343323116818"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
