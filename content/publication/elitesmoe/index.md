@@ -18,7 +18,7 @@ authors = ["Miguel García-Sánchez", "Aila M. Matanock", "Natalia Garbiras-Día
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Journal of Conflict Resolution*"
+publication = "Do Citizens' Preferences Matter? Shaping Legislator Attitudes Towards Peace Agreements *Journal of Conflict Resolution*"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -61,10 +61,11 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Article", url = "https://journals.sagepub.com/doi/full/10.1177/00220027221099245"}]
+url_custom = [{name = "Open Access", url = "https://journals.sagepub.com/doi/10.1177/00220027221099245"}]
+links = [{name = "EGAP Policy Brief", url = "https://egap.org/resource/what-do-politicians-know-about-citizens-preferences-for-peace-agreement-provisions/"}]
 
 # Digital Object Identifier (DOI)
-doi = "/10.1177/00220027221099245"
+doi = "https://doi.org/10.1177/00220027221099245"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
