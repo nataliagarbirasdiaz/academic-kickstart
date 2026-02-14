@@ -18,8 +18,8 @@ authors = ["Miguel García-Sánchez", "Aila M. Matanock", "Natalia Garbiras-Día
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Do Citizens' Preferences Matter? Shaping Legislator Attitudes Towards Peace Agreements *Journal of Conflict Resolution*"
-publication_short = ""
+publication = "García-Sánchez, Miguel, Aila M. Matanock, and Natalia Garbiras-Díaz. 2022. ''Do Citizens' Preferences Matter? Shaping Legislator Attitudes Towards Peace Agreements.''*Journal of Conflict Resolution*," 67 (5):893-922"
+publication_short = "*Journal of Conflict Resolution*, 67 (5): 893-922"
 
 # Abstract and optional shortened version.
 abstract = "To what extent are legislators, responsible for the implementation of many peace agreements, responsive to citizens’ preferences? Examining the 2016 Colombian peace agreement, we embed an experiment in the 2019 wave of a survey of all the members of Congress. We inform legislators about the attitudes of the general population and residents of conflict-affected regions on a provision included in the peace agreement: the creation of 16 special seats in the House of Representatives reserved for conflict areas. We find that legislators underestimate citizen support for this policy, and the magnitude of their misconception is correlated with the positions of their parties on the issue. Moreover, we find that providing information about citizens’ support for the policy does not affect legislator support for the provision."
