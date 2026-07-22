@@ -70,13 +70,13 @@ subtitle = ""
 <h3>Political Accountability and Development</h3> <p>
 
 <details>
-<summary> <strong strong style="color:royalblue"> Electoral Integrity and Local Development: Experimental Evidence From Colombia </strong>  <br/>
+<summary> <strong strong style="color:royalblue"> Electoral Integrity and Local Development </strong>  <br/>
 Natalia Garbiras-Díaz and Mateo Montenegro <br/>
-  
-* [Working paper](/files/20260722_Electoral_Integrity_Local_Development.pdf) <br/>
+
+* <a href="/files/20260722_Electoral_Integrity_Local_Development.pdf" target="_blank" rel="noopener noreferrer">Working paper</a>
 </summary>
 <br/>
-Today most countries hold elections to choose their leaders, yet only about half of these elections are free and fair. This paper studies whether enhancing electoral integrity improves the provision of basic public services, a central dimension of local development. We leverage experimental variation from a randomized intervention during Colombia’s 2019 mayoral elections, which successfully reduced irregularities such as fraud and vote buying across nearly 700 municipalities. We document four sets of results. First, municipalities with cleaner elections experienced increased access to local public services over the following four years. Selection and accountability channels underpinning this result, and develop a framework to quantify the contribution of each channel. We find that selection accounts for 22-30 percent of the effect, while accountability explains the remainder. Third, we identify specific mayoral actions behind these gains: local governments in treated municipalities adopted more competitive procurement practices and faced fewer corruption-related judicial investigations. Finally, we rule out alternative mechanisms, including increased fiscal capacity and support from higher levels of government. Taken together, the results show that safeguarding democratic processes yields tangible welfare gains for citizens.
+Does electoral integrity improve local development? Prevailing theories of democracy suggest that well-functioning elections allow citizens to select good politicians (<i>selection channel</i>) and incentivize their effort (<i>accountability channel</i>). Despite the intuitive logic of these arguments, there is limited empirical evidence supporting them. We address this gap by leveraging unique experimental variation in electoral integrity from a randomized intervention conducted during Colombia’s 2019 mayoral elections, which reduced electoral irregularities. We document four findings. First, treated municipalities experienced increased access to local public goods over the subsequent four years. Second, mayors in treated municipalities became more efficient and less wasteful, as measured by procurement outcomes and corruption-related judicial processes. Third, we develop a novel framework to quantify the contribution of the selection channel and find it plays a substantial role in the overall effect. Finally, we find that alternative explanations—such as increased citizen demand—are unlikely to account for the results. These findings underscore the developmental value of transparent elections.
   
 </details>
 <br/>
@@ -85,7 +85,7 @@ Today most countries hold elections to choose their leaders, yet only about half
 <summary> <strong style="color:royalblue"> Accents as Capital </strong> <br/>
 Leopoldo Fergusson, Natalia Garbiras-Díaz, and Michael Weintraub <br/>
   
-* [Working paper](https://www.hbs.edu/ris/Publication%20Files/26-039_5be41b7a-a227-475b-bc1a-ec3b4f3c093b.pdf) <br/>
+* <a href="https://www.hbs.edu/ris/Publication%20Files/26-039_5be41b7a-a227-475b-bc1a-ec3b4f3c093b.pdf" target="_blank" rel="noopener noreferrer">Working paper</a>
 </summary>
 <br/>
 Do accents shape social and economic interactions? We answer this question using an experiment embedded in an online survey of 6,000 Colombian adults. Respondents evaluated paired profiles whose audio introductions used either a high- or low-class accent, while income, education, and other attributes were independently randomized. We find a sizable accent premium: speakers with high-class accents are 5–16 percentage points more likely to be chosen as friends, business partners, colleagues, or bosses. The premium is significantly larger among respondents with high socioeconomic status, consistent with an in-group favoritism that can reproduce inequality. Our design allows us to disentangle the effect of accents from income and education, ruling out that inferences about these other forms of capital drive the premium. We further show that the premium vanishes for high-class foreign accents, suggesting that class cues are culturally specific and difficult for outsiders to detect. Finally, we document that respondents systematically associate high-class accents with multiple proxies of social status. Overall, our findings reveal how linguistic signals reinforce social barriers and should inform policy efforts to reduce inequality and promote social mobility.  
@@ -112,7 +112,7 @@ Despite systematic efforts by both countries and the international community to 
 <summary> <strong strong style="color:royalblue"> Citizen Democratic Commitment Under Stress: Panel Evidence from a Self-Coup in Peru </strong> (<i>Under review</i>) <br/>
 Hernán Carvajal, Loreto Cox and Natalia Garbiras-Díaz <br/>
 
-* [Working paper](https://www.hbs.edu/faculty/Pages/item.aspx?num=68002) <br/>
+* <a href="https://www.hbs.edu/faculty/Pages/item.aspx?num=68002" target="_blank" rel="noopener noreferrer">Working paper</a>
 </summary>
 <br/>
 Do citizens stand by their democratic principles when democracy is under threat? We address this question using a unique design that tracks Peruvians' democratic attitudes around Pedro Castillo's attempted 2022 self-coup. We combine a two-wave "pre-shock" panel measuring explicit support for democracy through direct questions and implicit support through votes for hypothetical undemocratic candidates in a conjoint experiment with a third wave capturing responses to Castillo's shock. We show that Castillo voters are more forgiving of the self-coup and adjust their standards to view shutting down Congress as no longer undemocratic. Yet, pre-shock stated commitment matters: explicit survey responses strongly predict condemnation of the self-coup, at least as strongly as having voted for Castillo. Notably, the conjoint measure predicts it only weakly. Robustness analyses using Colombian data provide external validity. Our findings offer real-world substantive and methodological insights into how democratic commitments shape citizens' responses when democracy is under stress.
@@ -148,7 +148,7 @@ Public opinion surveys show rising levels of distrust in parties and anti-elite 
 <summary> <strong strong style="color:royalblue"> The Anatomy, Sources, and Consequences of Citizen Discontent with the Political Establishment: Experimental Evidence from Latin America </strong> (<i>Under review</i>) <br/>
 Loreto Cox and Natalia Garbiras-Díaz <br/>
 
-* [Working paper](https://www.hbs.edu/faculty/Pages/item.aspx?num=64853)   <br/>
+* <a href="https://www.hbs.edu/faculty/Pages/item.aspx?num=64853" target="_blank" rel="noopener noreferrer">Working paper</a>
 </summary>
 <br/>
 Riding a global wave of discontent with political elites, anti-establishment candidates have gained significant electoral success around the world. While over 70% of worldwide citizens express discontent, its characteristics, sources and consequences remain understudied, particularly using causal inference. To address this, we study citizen discontent in Latin America. Leveraging survey data from Colombia and Peru during the 2022 elections and combining experimental and observational approaches, we document five key findings. First, citizen discontent is widespread, extends beyond populist attitudes, and spans the ideological spectrum. Second, discontent is driven primarily by perceptions of corruption and broken promises. Third, heightened discontent reduces trust in institutions, and in Colombia—where voting is voluntary—it also mobilizes voters. Fourth, discontent does not change views about democracy. Finally, discontent shapes how citizens evaluate candidates, boosting the electoral appeal of anti-establishment rhetoric. Overall, we offer substantive and methodological contributions to understanding political disaffection in contemporary democracies.
@@ -167,7 +167,7 @@ Riding a global wave of discontent with political elites, anti-establishment can
 <summary> <strong style="color:royalblue"> Prospective Peace: Anticipated Selective Dividends and Public Support for Conflict Settlements </strong> (<i>Under review</i>) <br/>
 Natalia Garbiras-Díaz, Miguel García-Sánchez, and Aila M. Matanock <br/>
 
-* [Working paper](http://ssrn.com/abstract=4013416) <br/>
+* <a href="http://ssrn.com/abstract=4013416" target="_blank" rel="noopener noreferrer">Working paper</a>
 </summary>
 <br/>
 Public support is critical to the success of peace agreements, yet evidence on what shapes citizens’ attitudes toward settlements remains inconsistent. Many studies emphasize retrospective evaluations rooted in conflict exposure with mixed results. We argue that support for peace agreements is shaped by prospective expectations about the distribution of dividends generated by the institutional design of the settlement. We test this argument exploiting a unique feature of Colombia’s 2016 peace agreement with the FARC. Using a matched-pair design and an original survey of over 4,000 respondents, we compare municipalities eligible for selectively targeted development programs (PDET) with similar non-eligible municipalities. We find that residents of PDET municipalities are more informed about the agreement, more supportive of provisions benefiting civilians, and more optimistic about its effects. These patterns are not explained by conflict exposure alone. Our findings highlight the importance of forward-looking evaluations and the political consequences of post-conflict institutional design.
@@ -179,7 +179,7 @@ Public support is critical to the success of peace agreements, yet evidence on w
 <summary> <strong style="color:royalblue"> Spoiling Support for Peace Processes? </strong> (<i>Under review</i>) <br/>
 Aila M. Matanock, Natalia Garbiras-Díaz, and Miguel García-Sánchez <br/>
 
-* [Working paper](http://ssrn.com/abstract=4013416)  <br/>
+* <a href="http://ssrn.com/abstract=4013416" target="_blank" rel="noopener noreferrer">Working paper</a>
 </summary>
 <br/>
 This note examines how rebel factions that break from peace agreements can undermine public support for peace agreements. We hypothesize that such spoilers affect: expectations about rebel compliance; attitudes toward reconciliation and reintegration; and confidence in the peace agreement. Using a survey experiment conducted in Colombia shortly after a dissident group rearmed, we test these effects. Results show shifts in public attitudes, especially regarding reconciliation, which may destabilize the peace process. Spoilers can disrupt the path to peace by weakening support for coexistence with former combatants. 
@@ -213,7 +213,7 @@ How can weak states improve security? We build on existing work theorizing that 
 <summary> <strong style="color:royalblue"> Actitudes de exintegrantes de las Farc–EP frente a la reincorporación </strong> <br/>
 Ana Arjona, Leopoldo Fergusson, Natalia Garbiras-Díaz, Juana García-Duque, Tatiana Hiller, Lewis Polo and Michael Weintraub <br/>
 
-* [CEDE Working Paper 2020-24](https://ideas.repec.org/p/col/000089/018247.html) <br/>
+* <a href="https://ideas.repec.org/p/col/000089/018247.html" target="_blank" rel="noopener noreferrer">CEDE Working Paper 2020-24</a>
 </summary>
 <br/>
 En agosto del 2019 se cumplieron dos años de la reincorporación de las Farc-EP. Este proceso es uno de los principales desafíos de la implementación del Acuerdo Final firmado entre el Estado colombiano y la organización guerrillera en noviembre de 2016. Los avances en materia de reincorporación garantizarán su sostenibilidad. En este documento analizamos las actitudes de los exintegrantes frente al proceso en esta primera etapa, tomando los resultados del Registro Nacional de Reincorporación (RNR), realizado entre la Agencia Nacional de Reincorporación (ARN) y el componente Farc del Consejo Nacional de Reincorporación (CNR). Tras mostrar que hay aspectos positivos en las actitudes de las personas en proceso de reincorporación, y algunos que deben mirarse con preocupación, estudiamos qué características de los exintegrantes y su entorno se asocian con mejores actitudes y condiciones para la implementación del proceso de reincorporación. Complementamos este análisis contrastando las actitudes de la población en proceso de reincorporación con las de la población civil, haciendo paralelos, en términos de los retos de política pública, para ambos grupos. La evidencia presentada sirve para canalizar esfuerzos en donde más parecen necesitarse.    
