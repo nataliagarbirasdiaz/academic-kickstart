@@ -72,7 +72,8 @@ subtitle = ""
 <details>
 <summary> <strong strong style="color:royalblue"> Electoral Integrity and Local Development: Experimental Evidence From Colombia </strong>  <br/>
 Natalia Garbiras-Díaz and Mateo Montenegro <br/>
-  * [Working paper](/files/20260722_Electoral_Integrity_Local_Development.pdf) <br/>
+  
+* [Working paper](/files/20260722_Electoral_Integrity_Local_Development.pdf) <br/>
 </summary>
 <br/>
 Today most countries hold elections to choose their leaders, yet only about half of these elections are free and fair. This paper studies whether enhancing electoral integrity improves the provision of basic public services, a central dimension of local development. We leverage experimental variation from a randomized intervention during Colombia’s 2019 mayoral elections, which successfully reduced irregularities such as fraud and vote buying across nearly 700 municipalities. We document four sets of results. First, municipalities with cleaner elections experienced increased access to local public services over the following four years. Selection and accountability channels underpinning this result, and develop a framework to quantify the contribution of each channel. We find that selection accounts for 22-30 percent of the effect, while accountability explains the remainder. Third, we identify specific mayoral actions behind these gains: local governments in treated municipalities adopted more competitive procurement practices and faced fewer corruption-related judicial investigations. Finally, we rule out alternative mechanisms, including increased fiscal capacity and support from higher levels of government. Taken together, the results show that safeguarding democratic processes yields tangible welfare gains for citizens.
